@@ -1,3 +1,21 @@
+/* Global Variables */
+:root {
+    --mantra-purple: #4B3048;
+    --off-white: #fbf9ed;
+    --nav-colour-unselected: #A398A3;
+    --nav-colour-selected: #EDEBED;
+}
+
+/* Fonts */
+@font-face {
+    font-family: 'CenturyGothicRegular'; /* Font name you can use in your CSS */
+    src: url('../Fonts/CGR/TR\ Century\ Gothic\ Regular.ttf') format('truetype');
+         /* url('../Fonts/century-gothic/CenturyGothic.ttf') format('truetype'),
+         url('../Fonts/century-gothic/GOTHIC.TTF') format('truetype'),
+         url('../Fonts/century-gothic/gothicb.ttf') format('truetype'),
+         url('../Fonts/century-gothic/GOTHICB0.TTF') format('truetype'); */
+}
+
 /* <-- HEADER --> */
 
 /* Remove the default list styles (bullet points) */
@@ -16,16 +34,80 @@ nav ul li {
 
 /* Style the links */
 nav ul li a {
-    font-family: 'Century Gothic', sans-serif;
+    font-family: 'CenturyGothicRegular', sans-serif;
     text-decoration: none;
-    color: #333;
-    font-size: 14px;
+    color: var(--nav-colour-unselected);
+    font-size: 13px;
+    letter-spacing: 4px;
 }
 
 /* Add hover effect */
 nav ul li a:hover {
-    color: #4B3048;
+    color: var(--nav-colour-selected);
 }
 
 
 /* <-- BODY --> */
+body {
+    background-color: var(--mantra-purple);
+    background-image: url('../Images/mantra-experiance.jpeg'); /* Replace 'background.jpg' with your image file path */
+    background-size: 110%; /* Cover the entire viewport */
+    background-position: center; /* Center the image */
+    background-attachment: fixed; /* Keep the image fixed while scrolling */
+    
+}
+
+h1 {
+    font-family: 'CenturyGothicRegular', sans-serif;
+    text-decoration: none;
+    color: var(--off-white);
+    font-size: 95px; /* Increase font size for a taller appearance */
+    line-height: 1; /* Set line-height to 1 to make the letters appear closer together */
+    letter-spacing: 4px;
+    text-align: center; /* Center-align the text */
+}
+
+.word {
+    display: block; /* Display each word on a new line (one above the other) */
+
+    font-weight: 300; /* Adjust font weight (e.g., 300 for lighter) */
+}
+
+h2 {
+    font-family: 'CenturyGothicRegular', sans-serif;
+    text-decoration: none;
+    color: var(--off-white);
+    font-size: 15px; /* Increase font size for a taller appearance */
+    line-height: 1; /* Set line-height to 1 to make the letters appear closer together */
+    letter-spacing: 4px;
+    text-align: center; /* Center-align the text */
+}
+
+.cta-button-container {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center; /* Horizontally center the button */
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 15px 30px; /* Adjust padding to control button size */
+    background-color: var(--mantra-purple); /* Background color */
+    color: var(--off-white); /* Text color */
+    font-family: 'CenturyGothicRegular', sans-serif; /* Custom font */
+    font-size: 16px; /* Font size */
+    font-weight: 500; /* Font weight */
+    text-decoration: none;
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    margin: 0;
+    
+}
+
+/* Hover effect */
+.cta-button:hover {
+    background-color: var(--nav-colour-selected); /* Change background color on hover */
+    transform: scale(1.05); /* Scale the button slightly on hover */
+}
