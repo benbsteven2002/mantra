@@ -1,0 +1,31 @@
+/* <-- HEADER --> */
+
+/* Remove the default list styles (bullet points) */
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Horizontally center the items */
+}
+
+/* Display list items horizontally */
+nav ul li {
+    display: inline;
+    margin-right: 40px; /* Add some space between menu items */
+}
+
+/* Style the links */
+nav ul li a {
+    font-family: 'Century Gothic', sans-serif;
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+}
+
+/* Add hover effect */
+nav ul li a:hover {
+    color: #4B3048;
+}
+
+
+/* <-- BODY --> */
