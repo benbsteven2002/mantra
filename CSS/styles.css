@@ -126,7 +126,7 @@ h1 {
     font-family: 'CenturyGothicRegular', sans-serif;
     text-decoration: none;
     color: var(--off-white);
-    font-size: 95px;
+    font-size: 6em;
     line-height: 1;
     letter-spacing: 4px;
     text-align: center;
@@ -202,6 +202,14 @@ h2 {
     line-height: 1.5;
     margin-bottom: 10px;
     padding-bottom: 10px;
+}
+
+/* Phone size alterations */
+@media screen and (max-width: 724px) {
+    h1 {
+        padding-top: 1em;
+        font-size: 4em;
+    }
 }
 
 /* Footer */
