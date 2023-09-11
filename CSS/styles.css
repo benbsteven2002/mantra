@@ -8,31 +8,23 @@
 
 /* Fonts */
 @font-face {
-    font-family: 'CenturyGothicRegular'; /* Font name you can use in your CSS */
+    font-family: 'CenturyGothicRegular';
     src: url('../Fonts/CGR/TR\ Century\ Gothic\ Regular.ttf') format('truetype');
-         /* url('../Fonts/century-gothic/CenturyGothic.ttf') format('truetype'),
-         url('../Fonts/century-gothic/GOTHIC.TTF') format('truetype'),
-         url('../Fonts/century-gothic/gothicb.ttf') format('truetype'),
-         url('../Fonts/century-gothic/GOTHICB0.TTF') format('truetype'); */
 }
 
-/* <-- HEADER --> */
-
-/* Remove the default list styles (bullet points) */
+/* Header */
 nav ul {
     list-style: none;
     padding: 0;
-    display: flex; /* Use flexbox for centering */
-    justify-content: center; /* Horizontally center the items */
+    display: flex;
+    justify-content: center;
 }
 
-/* Display list items horizontally */
 nav ul li {
     display: inline;
-    margin-right: 40px; /* Add some space between menu items */
+    margin-right: 40px;
 }
 
-/* Style the links */
 nav ul li a {
     font-family: 'CenturyGothicRegular', sans-serif;
     text-decoration: none;
@@ -41,73 +33,114 @@ nav ul li a {
     letter-spacing: 4px;
 }
 
-/* Add hover effect */
 nav ul li a:hover {
     color: var(--nav-colour-selected);
 }
 
+.active {
+    color: white; /* Change the color for the active link */
+}
 
-/* <-- BODY --> */
+/* Body */
 body {
     background-color: var(--mantra-purple);
-    background-image: url('../Images/mantra-experiance.jpeg'); /* Replace 'background.jpg' with your image file path */
-    background-size: 110%; /* Cover the entire viewport */
-    background-position: center; /* Center the image */
-    background-attachment: fixed; /* Keep the image fixed while scrolling */
-    
+    background-image: url('../Images/mantra-experiance.jpeg');
+    background-size: 110%;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 h1 {
     font-family: 'CenturyGothicRegular', sans-serif;
     text-decoration: none;
     color: var(--off-white);
-    font-size: 95px; /* Increase font size for a taller appearance */
-    line-height: 1; /* Set line-height to 1 to make the letters appear closer together */
+    font-size: 95px;
+    line-height: 1;
     letter-spacing: 4px;
-    text-align: center; /* Center-align the text */
+    text-align: center;
 }
 
 .word {
-    display: block; /* Display each word on a new line (one above the other) */
-
-    font-weight: 300; /* Adjust font weight (e.g., 300 for lighter) */
+    display: block;
+    font-weight: 300;
 }
 
 h2 {
     font-family: 'CenturyGothicRegular', sans-serif;
     text-decoration: none;
     color: var(--off-white);
-    font-size: 15px; /* Increase font size for a taller appearance */
-    line-height: 1; /* Set line-height to 1 to make the letters appear closer together */
+    font-size: 15px;
+    line-height: 1;
     letter-spacing: 4px;
-    text-align: center; /* Center-align the text */
+    text-align: center;
 }
 
 .cta-button-container {
     padding-top: 10px;
     display: flex;
-    justify-content: center; /* Horizontally center the button */
+    justify-content: center;
 }
 
 .cta-button {
     display: inline-block;
-    padding: 15px 30px; /* Adjust padding to control button size */
-    background-color: var(--mantra-purple); /* Background color */
-    color: var(--off-white); /* Text color */
-    font-family: 'CenturyGothicRegular', sans-serif; /* Custom font */
-    font-size: 16px; /* Font size */
-    font-weight: 500; /* Font weight */
+    padding: 15px 30px;
+    background-color: var(--mantra-purple);
+    color: var(--off-white);
+    font-family: 'CenturyGothicRegular', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
     text-decoration: none;
     border: none;
-    border-radius: 5px; /* Rounded corners */
+    border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
     margin: 0;
-    
 }
 
-/* Hover effect */
 .cta-button:hover {
-    background-color: var(--nav-colour-selected); /* Change background color on hover */
-    transform: scale(1.05); /* Scale the button slightly on hover */
+    background-color: var(--nav-colour-selected);
+    color: var(--mantra-purple);
+    transform: scale(1.05);
+}
+
+/* Our Philosophy */
+.our-philosophy {
+    background-color: var(--off-white);
+    padding: 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    opacity: 0.7;
+}
+
+.our-philosophy h3 {
+    padding-top: 10px;
+    font-family: 'CenturyGothicRegular', sans-serif;
+    color: var(--mantra-purple);
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.our-philosophy p {
+    font-family: 'CenturyGothicRegular', sans-serif;
+    color: var(--mantra-purple);
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+/* Footer */
+.social-icon {
+    font-size: 30px;
+    color: var(--off-white);
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-social {
+    text-align: center;
+    margin-top: 20px;
 }
