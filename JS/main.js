@@ -37,3 +37,8 @@ if (currentPageUrl.includes("index.html")) {
     document.getElementById("gallery-link-desktop").classList.add("active");
     document.getElementById("gallery-link-mobile").classList.add("active");
 }
+// Add the case for being just / nothing
+// if (currentPageUrl.includes(currentPageUrl)) {
+//     document.getElementById("welcome-link-desktop").classList.add("active");
+//     document.getElementById("welcome-link-mobile").classList.add("active");
+// }
