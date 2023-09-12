@@ -43,24 +43,49 @@
 
     <!-- Main Content Section -->
     <main>
-        <section>
-            <h1>
-                <span class="word">MANTRA</span>
-                <span class="word">CAFÉ</span>
-            </h1>
-            <h2>CAMPS BAY. CAPE TOWN. SOUTH AFRICA.</h2>
-            <section class="cta-button-container">
-                <a href="menu.html" class="cta-button">View Menu</a>
-            </section>
-    
-            <section class="our-philosophy">
-                <h3>Our Philosophy:</h3>
-                <p>We dreamt of a Café by the sea. A Grand Café if you like.  
-                    The menu had to be simple and classic, the décor sophisticated but fun and the service always perfect. 
-                    This is our mantra and we are excited for you to experience this Magic at Mantra. </p>
-                <p>Mark & Melissa van Hoogstraten</p>
-            </section>
-        </section>
+
+        <div class="slideshow-container">
+            <!-- Images for your breakfast menu -->
+            <div class="mySlides fade">
+                <img src="./Images/Dinner/Mantra Main Menu_page-0001.jpg" alt="Dinner Item 1">
+                <div class="caption">Caption for Item 1</div>
+            </div>
+
+            <div class="mySlides fade">
+                <img src="./Images/Dinner/Mantra Main Menu_page-0002.jpg" alt="Breakfast Item 2">
+                <div class="caption">Caption for Item 2</div>
+            </div>
+            
+            <div class="mySlides fade">
+                <img src="./Images/Dinner/Mantra Main Menu_page-0003.jpg" alt="Breakfast Item 3">
+                <div class="caption">Caption for Item 3</div>
+            </div>
+            
+            <div class="mySlides fade">
+                <img src="./Images/Dinner/Mantra Main Menu_page-0004.jpg" alt="Breakfast Item 4">
+                <div class="caption">Caption for Item 4</div>
+            </div>            
+            
+            <div class="mySlides fade">
+                <img src="./Images/Dinner/Mantra Main Menu_page-0005jpg" alt="Breakfast Item 5">
+                <div class="caption">Caption for Item 5</div>
+            </div>
+                        
+            <div class="mySlides fade">
+                <img src="./Images/Dinner/Mantra Main Menu_page-0006.jpg" alt="Breakfast Item 6">
+                <div class="caption">Caption for Item 6</div>
+            </div>
+            <!-- Add more slides as needed -->
+
+            <!-- Navigation buttons -->
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+        
+        <div>
+            recent reviews from dineplan
+        </div>
+        
     </main>
 
     <!-- Footer Section -->
@@ -72,5 +97,28 @@
     </footer>
 
     <script src="./JS/main.js"></script> <!-- Link JavaScript file -->
+    
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function showSlides(n) {
+            const slides = document.getElementsByClassName("mySlides");
+            if (n > slides.length) {
+                slideIndex = 1;
+            }
+            if (n < 1) {
+                slideIndex = slides.length;
+            }
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slides[slideIndex - 1].style.display = "block";
+        }
+    </script>
 </body>
 </html>
