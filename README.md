@@ -5,7 +5,7 @@ Recoding the squarespace website locally with HTML and CSS.
 ## Known Bugs
 Nav dissapears if you toggle menu in mobile and expand to desktop (make diplay block when you pull it past 724 px)
 
-\\python -m http.server
+\\python3 -m http.server
 
 
 
