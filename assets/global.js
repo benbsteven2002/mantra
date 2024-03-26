@@ -993,58 +993,63 @@ class VariantSelects extends HTMLElement {
     });
   }
 
-updateMedia() {
-
-  if (!this.currentVariant) return;
-  if (!this.currentVariant.featured_media) return;
-
-  const variantAltText = this.currentVariant.title;
-  
-  console.log("variantAltText = " + variantAltText)
-
-  // Query all media items in the gallery
-  const mediaItems = document.querySelectorAll(`[id^="MediaGallery-${this.dataset.section}"] .product__media-item`);
-
-  // Hide all media items initially
-  mediaItems.forEach(item => item.style.display = 'none');
-
-  // Filter and display only those media items whose alt text matches the current variant's alt text
-  mediaItems.forEach(item => {
-    if (item.getAttribute('data-alt-text') === variantAltText) {
-      item.style.display = ''; // Or 'block', 'flex', etc., depending on your layout
-    }
-  });
-
-  // For the modal content, similar logic can be applied if it uses the same media items or alt text grouping
-  const modalContent = document.querySelector(`#ProductModal-${this.dataset.section} .product-media-modal__content`);
-  if (modalContent) {
-    const modalMediaItems = modalContent.querySelectorAll('.product__media-item');
-    modalMediaItems.forEach(item => item.style.display = 'none');
-    modalMediaItems.forEach(item => {
-      if (item.getAttribute('data-alt-text') === variantAltText) {
-        item.style.display = ''; // Adjust display style as needed
-      }
-    });
-  }
-}
-
-  
   // updateMedia() {
+
   //   if (!this.currentVariant) return;
   //   if (!this.currentVariant.featured_media) return;
-    
-  //   console.log(this.currentVariant)
-    
-  //   const mediaGalleries = document.querySelectorAll(`[id^="MediaGallery-${this.dataset.section}"]`);
-  //   mediaGalleries.forEach((mediaGallery) =>
-  //     mediaGallery.setActiveMedia(`${this.dataset.section}-${this.currentVariant.featured_media.id}`, true)
-  //   );
 
+  //   const variantAltText = this.currentVariant.title;
+    
+  //   console.log("variantAltText = " + variantAltText)
+
+  //   // Query all media items in the gallery
+  //   const mediaItems = document.querySelectorAll(`[id^="MediaGallery-${this.dataset.section}"] .product__media-item`);
+
+  //   // Hide all media items initially
+  //   mediaItems.forEach(item => item.style.display = 'none');
+
+  //   // Filter and display only those media items whose alt text matches the current variant's alt text
+  //   mediaItems.forEach(item => {
+  //     if (item.getAttribute('data-alt-text') === variantAltText) {
+  //       item.style.display = ''; // Or 'block', 'flex', etc., depending on your layout
+  //     }
+  //   });
+
+  //   // For the modal content, similar logic can be applied if it uses the same media items or alt text grouping
   //   const modalContent = document.querySelector(`#ProductModal-${this.dataset.section} .product-media-modal__content`);
-  //   if (!modalContent) return;
-  //   const newMediaModal = modalContent.querySelector(`[data-media-id="${this.currentVariant.featured_media.id}"]`);
-  //   modalContent.prepend(newMediaModal);
+  //   if (modalContent) {
+  //     const modalMediaItems = modalContent.querySelectorAll('.product__media-item');
+  //     modalMediaItems.forEach(item => item.style.display = 'none');
+  //     modalMediaItems.forEach(item => {
+  //       if (item.getAttribute('data-alt-text') === variantAltText) {
+  //         item.style.display = ''; // Adjust display style as needed
+  //       }
+  //     });
+  //   }
   // }
+
+  
+  updateMedia() {
+    if (!this.currentVariant) return;
+    if (!this.currentVariant.featured_media) return;
+    
+    const variantAltText = this.currentVariant.title;
+  
+    console.log("variantAltText = " + variantAltText)
+    
+    
+    
+    const mediaGalleries = document.querySelectorAll(`[id^="MediaGallery-${this.dataset.section}"]`);
+    mediaGalleries.forEach((mediaGallery) =>
+      console.log(mediaGallery),
+      mediaGallery.setActiveMedia(`${this.dataset.section}-${this.currentVariant.featured_media.id}`, true)
+    );
+
+    const modalContent = document.querySelector(`#ProductModal-${this.dataset.section} .product-media-modal__content`);
+    if (!modalContent) return;
+    const newMediaModal = modalContent.querySelector(`[data-media-id="${this.currentVariant.featured_media.id}"]`);
+    modalContent.prepend(newMediaModal);
+  }
 
   updateURL() {
     if (!this.currentVariant || this.dataset.updateUrl === 'false') return;
