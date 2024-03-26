@@ -959,6 +959,7 @@ class VariantSelects extends HTMLElement {
   }
 
   onVariantChange() {
+    console.log("on variant change !!!!!!!")
     this.updateOptions();
     this.updateMasterId();
     this.toggleAddButton(true, '', false);

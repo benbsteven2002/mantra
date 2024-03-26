@@ -21,6 +21,13 @@
       {% endif %}
       {{ block.shopify_attributes }}
     >
+    
+    <script>
+      var variantData = {{ product.variants | json }};
+      console.log("variantData")
+      console.log(variantData);
+    </script>
+    
       {%- for option in product.options_with_values -%}
         <fieldset class="js product-form__input">
           <legend class="form__label">{{ option.name }}</legend>
