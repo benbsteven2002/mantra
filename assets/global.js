@@ -1041,17 +1041,14 @@ class VariantSelects extends HTMLElement {
     
     const mediaGalleries = document.querySelectorAll(`[id^="MediaGallery-${this.dataset.section}"]`);
     mediaGalleries.forEach((mediaGallery) => {
-      console.log(this.currentVariant.featured_media.alt);
-      if (this.currentVariant.featured_media.alt == variantAltText) {
         mediaGallery.setActiveMedia(`${this.dataset.section}-${this.currentVariant.featured_media.id}`, true)
       }
-    }
     );
 
-    const modalContent = document.querySelector(`#ProductModal-${this.dataset.section} .product-media-modal__content`);
-    if (!modalContent) return;
-    const newMediaModal = modalContent.querySelector(`[data-media-id="${this.currentVariant.featured_media.id}"]`);
-    modalContent.prepend(newMediaModal);
+    // const modalContent = document.querySelector(`#ProductModal-${this.dataset.section} .product-media-modal__content`);
+    // if (!modalContent) return;
+    // const newMediaModal = modalContent.querySelector(`[data-media-id="${this.currentVariant.featured_media.id}"]`);
+    // modalContent.prepend(newMediaModal);
   }
 
   updateURL() {
