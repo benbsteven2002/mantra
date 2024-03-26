@@ -1041,8 +1041,8 @@ class VariantSelects extends HTMLElement {
     
     const mediaGalleries = document.querySelectorAll(`[id^="MediaGallery-${this.dataset.section}"]`);
     mediaGalleries.forEach((mediaGallery) => {
+      console.log(this.currentVariant.featured_media.alt);
       if (this.currentVariant.featured_media.alt == variantAltText) {
-        console.log(this.currentVariant.featured_media.alt);
         mediaGallery.setActiveMedia(`${this.dataset.section}-${this.currentVariant.featured_media.id}`, true)
       }
     }
