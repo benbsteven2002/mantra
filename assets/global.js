@@ -1040,9 +1040,11 @@ class VariantSelects extends HTMLElement {
     
     
     const mediaGalleries = document.querySelectorAll(`[id^="MediaGallery-${this.dataset.section}"]`);
-    mediaGalleries.forEach((mediaGallery) =>
-      mediaGallery.setActiveMedia(`${this.dataset.section}-${this.currentVariant.featured_media.id}`, true),
-      console.log(this.currentVariant.featured_media),
+    mediaGalleries.forEach((mediaGallery) => {
+      if (this.currentVariant.featured_media.alt == variantAltText) {
+        mediaGallery.setActiveMedia(`${this.dataset.section}-${this.currentVariant.featured_media.id}`, true)
+      }
+    }
     );
 
     const modalContent = document.querySelector(`#ProductModal-${this.dataset.section} .product-media-modal__content`);
