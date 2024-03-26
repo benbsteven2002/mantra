@@ -1014,7 +1014,7 @@ class VariantSelects extends HTMLElement {
     const newMediaModal = modalContent.querySelector(`[data-media-id="${this.currentVariant.featured_media.id}"]`);
     modalContent.prepend(newMediaModal);
     
-    const thumbnails = document.querySelector(`.thumbnail-list__item .slider__slide`)
+    const thumbnails = document.querySelector(`.thumbnail-list__item`)
     console.log(thumbnails)
     
   }
