@@ -994,14 +994,11 @@ class VariantSelects extends HTMLElement {
   }
   
   updateMedia() {
+    // update Media when changing between variants 
     if (!this.currentVariant) return;
     if (!this.currentVariant.featured_media) return;
     
     const variantAltText = this.currentVariant.title;
-  
-    console.log("variantAltText = " + variantAltText)
-    
-    
     
     const mediaGalleries = document.querySelectorAll(`[id^="MediaGallery-${this.dataset.section}"]`);
     mediaGalleries.forEach((mediaGallery) => {
