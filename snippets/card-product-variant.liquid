@@ -75,11 +75,10 @@
               >
               {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
               
-              {% assign card_product.media[1] = product.media[5] %}
+              {% assign card_product.media = product.media %}
               <script>
-                var prr = {{ product.media[5] | json }}
+                var prr = {{ product.media | json }}
                 console.log(prr)
-                
               </script>
               
               {%- if card_product.media[1] != nil -%}
