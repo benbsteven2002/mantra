@@ -77,9 +77,9 @@
               <script>
                 console.log("product variant")
                 var cardProduct = {{ card_product | json }};
-                console.log(cardProduct)
+                // console.log(cardProduct)
                 
-                console.log(extra)
+                console.log(additional_argument)
               </script>
 
               {%- if card_product.media[1] != nil and show_secondary_image -%}
