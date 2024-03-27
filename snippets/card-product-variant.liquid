@@ -77,6 +77,9 @@
               <script>
                 var product = {{ product | json }}
                 console.log(product)
+                
+                var productcard = {{ card_product | json }}
+                console.log(productcard)
               </script>
 
               {%- if card_product.media[1] != nil and show_secondary_image -%}
