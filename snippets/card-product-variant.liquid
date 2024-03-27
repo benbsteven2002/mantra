@@ -77,8 +77,8 @@
               
               {% assign card_product.media[1] = product.media[5] %}
               <script>
-                var product = {{ card_product.media | json }}
-                console.log(product)
+                var prr = {{ product.media[5] | json }}
+                console.log(prr)
                 
               </script>
               
