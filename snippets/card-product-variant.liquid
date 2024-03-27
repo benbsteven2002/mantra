@@ -73,6 +73,9 @@
                 height="{{ card_product.featured_media.height }}"
               >
               {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
+              <script>
+                console.log("here?")
+              </script>
 
               {%- if card_product.media[1] != nil and show_secondary_image -%}
                 <img
