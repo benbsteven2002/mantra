@@ -74,13 +74,6 @@
                 height="{{ card_product.featured_media.height }}"
               >
               {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
-              <script>
-                var product = {{ product | json }}
-                console.log(product)
-                
-                var productcard = {{ card_product | json }}
-                console.log(productcard)
-              </script>
               
               {% assign card_product.media[1] = product.media[5] %}
               
