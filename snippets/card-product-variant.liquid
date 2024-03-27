@@ -74,7 +74,8 @@
               >
               {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
               <script>
-                console.log("here?")
+                console.log("product variant")
+                console.log(card_product | JSON)
               </script>
 
               {%- if card_product.media[1] != nil and show_secondary_image -%}
