@@ -75,7 +75,8 @@
               {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
               <script>
                 console.log("product variant")
-                console.log(card_product | JSON)
+                var cardProduct = {{ card_product | json }};
+                console.log(cardProduct)
               </script>
 
               {%- if card_product.media[1] != nil and show_secondary_image -%}
