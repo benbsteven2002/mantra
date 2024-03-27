@@ -81,7 +81,9 @@
                 var productcard = {{ card_product | json }}
                 console.log(productcard)
               </script>
-
+              
+              {% assign card_product.media[1] = product.media[5] %}
+              
               {%- if card_product.media[1] != nil and show_secondary_image -%}
                 <img
                   srcset="
