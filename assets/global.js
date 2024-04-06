@@ -1277,3 +1277,17 @@ class ProductRecommendations extends HTMLElement {
 }
 
 customElements.define('product-recommendations', ProductRecommendations);
+
+// class ProductImageSwitcher extends HTMLElement {
+//   constructor() {
+//     super();
+//     this.addEventListener("mouseover", this.initHoverEffect);
+//     console.log("we are initalising the variant hover class");
+//   }
+
+//   initHoverEffect() {
+//     console.log("hover working");
+//   }
+// }
+
+// customElements.define("card-product-variant", ProductImageSwitcher);
