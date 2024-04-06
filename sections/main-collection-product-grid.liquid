@@ -198,6 +198,8 @@
                             show_quick_add: section.settings.enable_quick_add,
                             section_id: section.id,
                             product: product
+                            pos: forloop.index
+                            len: product.variants.size
                           %}
                         </li>
                         {% capture tempList %}
