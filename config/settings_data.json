@@ -128,7 +128,8 @@
       "main-password-footer": {
         "type": "main-password-footer",
         "custom_css": [
-
+          "small.password__footer-login {display: none;}",
+          "small. password__footer-caption {display: none;}"
         ],
         "settings": {
           "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6"
