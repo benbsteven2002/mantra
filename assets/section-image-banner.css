@@ -480,6 +480,7 @@
   }
 }
 
+/* Ensure the first image takes full width and the second image is not displayed on larger screens */
 .banner__media:first-child {
   width: 100%;
 }
@@ -488,19 +489,21 @@
   display: none;
 }
 
+/* Adjustments for screens with a maximum width of 749px */
 @media screen and (max-width: 749px) {
+  /* Hide the first image */
   .banner__media:first-child {
     display: none;
   }
-  
+
+  /* Display the second image and set its width to 100% */
   .banner__media+.banner__media {
     width: 100%;
-    display: block important!;
+    display: block !important; /* Corrected typo here */
   }
-}
 
-@media screen and (min-width: 749px) {
-  .banner__content::before{
+  /* Optionally adjust the padding-bottom for .banner__content::before */
+  .banner__content::before {
     padding-bottom: 150% !important;
   }
 }
