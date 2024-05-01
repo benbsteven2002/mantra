@@ -1,1 +1,434 @@
-{"sections":{"0e8a14a9-8313-486b-bd32-bd65b71b1125":{"type":"image-with-text","blocks":{"template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-heading-1":{"type":"heading","settings":{"heading":"Mantra Living","heading_size":"h2"}},"template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-text-1":{"type":"text","settings":{"text":"<p>Mantra Living is our expression of a way of living where the essence of being lies in surrounding oneself with a collection of beautiful things and understanding the value of their quality. Our curated collection of classic, honest and authentically created products inspires a meaningful, beautiful and stylish lifestyle.<\/p>","text_style":"body"}},"template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-button-1":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-heading-1","template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-text-1","template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-button-1"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2023-09-23_at_6.37.40_PM.jpg","height":"large","desktop_image_width":"large","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","padding_top":12,"padding_bottom":0}},"add1bbdc-6390-4d5d-b79a-f5b604783cb1":{"type":"image-with-text","blocks":{"template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-heading-1":{"type":"heading","settings":{"heading":"Mantra Lifestyle Glassware","heading_size":"h1"}},"template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-text-1":{"type":"text","settings":{"text":"<p>Everyday glassware.<\/p>","text_style":"body"}},"template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-button-1":{"type":"button","settings":{"button_label":"Explore More","button_link":"shopify:\/\/collections\/lifestyle","button_style_secondary":true}}},"block_order":["template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-heading-1","template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-text-1","template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-button-1"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/IMG_0635.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","padding_top":12,"padding_bottom":0}},"3b490c23-de78-45f3-9389-010c2a9bead2":{"type":"multicolumn","blocks":{"template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/IMG_0635.jpg","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/20.jpg","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/IMG_0561_7a8e3602-b973-48a7-86e5-188e232a9a16.jpg","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-2","template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-1","template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-3"],"disabled":true,"custom_css":[".multicolumn {background-color: white;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6","columns_mobile":"1","swipe_on_mobile":true,"padding_top":12,"padding_bottom":0}},"image_banner":{"type":"image-banner","blocks":{"26549d79-05c7-4a7a-a72e-521873debb43":{"type":"heading","settings":{"heading":"Welcome to Mantra Living","heading_size":"h1"}},"5fa6bb7e-8309-4ab4-9e68-5b87f14a082d":{"type":"text","disabled":true,"settings":{"text":"Mantra Living is our expression of a way of living where the essence of being lies in surrounding oneself with a collection of beautiful things and understanding the value of their quality.   Our curated collection of classic, honest and authentically created products inspires a meaningful, beautiful and stylish lifestyle.","text_style":"subtitle"}},"button":{"type":"buttons","disabled":true,"settings":{"button_label_1":"Shop now","button_link_1":"shopify:\/\/collections\/quirky-collection","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["26549d79-05c7-4a7a-a72e-521873debb43","5fa6bb7e-8309-4ab4-9e68-5b87f14a082d","button"],"disabled":true,"settings":{"image_2":"shopify:\/\/shop_images\/IMG_7775.jpg","image_overlay_opacity":10,"image_height":"large","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"4e268bee-608e-4df3-9a69-1ef032fe0ceb":{"type":"image-with-text","blocks":{"template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-heading-1":{"type":"heading","settings":{"heading":"Mantra Glassware","heading_size":"h1"}},"template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-text-1":{"type":"text","settings":{"text":"<p>Elevate your dining experience with our finest selection of glassware.<\/p>","text_style":"body"}},"template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-button-1":{"type":"button","settings":{"button_label":"Explore more","button_link":"shopify:\/\/collections\/glassware","button_style_secondary":true}}},"block_order":["template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-heading-1","template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-text-1","template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-button-1"],"disabled":true,"custom_css":[],"settings":{"image":"shopify:\/\/shop_images\/22.jpg","height":"medium","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","padding_top":12,"padding_bottom":0}},"9b5f1ccd-09a3-4a86-bfb4-caa29a64e226":{"type":"image-with-text","blocks":{"template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-heading-1":{"type":"heading","settings":{"heading":"The quirky collection","heading_size":"h1"}},"template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-text-1":{"type":"text","settings":{"text":"<p>Enjoy your daily coffee or tea experience with these one-of-a-kind creations, lovingly hand crafted to bring a touch of beauty and individuality to your every sip.<\/p>","text_style":"body"}},"template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-button-1":{"type":"button","settings":{"button_label":"Explore more","button_link":"shopify:\/\/collections\/quirky-collection","button_style_secondary":true}}},"block_order":["template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-heading-1","template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-text-1","template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-button-1"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/IMG_0042_87995f1f-cebf-487c-a83c-55d1a564652b.jpg","height":"medium","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","padding_top":12,"padding_bottom":0}},"79f9765b-302d-4b9c-bb8c-714337eb13e5":{"type":"image-with-text","blocks":{"template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-heading-1":{"type":"heading","settings":{"heading":"The petite porcelain collection","heading_size":"h1"}},"template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-text-1":{"type":"text","settings":{"text":"<p>Experience the allure of the petite porcelain collection, a symphony of exquisite craftsmanship and timeless beauty.<\/p>","text_style":"body"}},"template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-button-1":{"type":"button","settings":{"button_label":"Shop Now","button_link":"shopify:\/\/collections\/petite-porcelain-collection","button_style_secondary":true}}},"block_order":["template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-heading-1","template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-text-1","template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-button-1"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/IMG_0561.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","padding_top":12,"padding_bottom":0}},"image_banner_aQkhWc":{"type":"image-banner","blocks":{"buttons_NJ8TQT":{"type":"buttons","settings":{"button_label_1":"Shop this lifestyle","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":true}}},"block_order":["buttons_NJ8TQT"],"settings":{"image":"shopify:\/\/shop_images\/DSCF0902.jpg","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"accent-2","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"image_with_text_bqVLBp":{"type":"image-with-text","blocks":{"heading_gehg3D":{"type":"heading","settings":{"heading":"Welcome to Mantra Living","heading_size":"h1"}},"text_iYYX7a":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_style":"body"}}},"block_order":["heading_gehg3D","text_iYYX7a"],"settings":{"image":"shopify:\/\/shop_images\/IMG_8961.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}}},"order":["0e8a14a9-8313-486b-bd32-bd65b71b1125","add1bbdc-6390-4d5d-b79a-f5b604783cb1","3b490c23-de78-45f3-9389-010c2a9bead2","image_banner","4e268bee-608e-4df3-9a69-1ef032fe0ceb","9b5f1ccd-09a3-4a86-bfb4-caa29a64e226","79f9765b-302d-4b9c-bb8c-714337eb13e5","image_banner_aQkhWc","image_with_text_bqVLBp"]}
+{
+  "sections": {
+    "0e8a14a9-8313-486b-bd32-bd65b71b1125": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mantra Living",
+            "heading_size": "h2"
+          }
+        },
+        "template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mantra Living is our expression of a way of living where the essence of being lies in surrounding oneself with a collection of beautiful things and understanding the value of their quality. Our curated collection of classic, honest and authentically created products inspires a meaningful, beautiful and stylish lifestyle.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-heading-1",
+        "template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-text-1",
+        "template--21197989118252__0e8a14a9-8313-486b-bd32-bd65b71b1125-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-09-23_at_6.37.40_PM.jpg",
+        "height": "large",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "add1bbdc-6390-4d5d-b79a-f5b604783cb1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mantra Lifestyle Glassware",
+            "heading_size": "h1"
+          }
+        },
+        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everyday glassware.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore More",
+            "button_link": "shopify:\/\/collections\/lifestyle",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-heading-1",
+        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-text-1",
+        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0635.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "3b490c23-de78-45f3-9389-010c2a9bead2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0635.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0561_7a8e3602-b973-48a7-86e5-188e232a9a16.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-2",
+        "template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-1",
+        "template--21197989118252__3b490c23-de78-45f3-9389-010c2a9bead2-column-3"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".multicolumn {background-color: white;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "26549d79-05c7-4a7a-a72e-521873debb43": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h1"
+          }
+        },
+        "5fa6bb7e-8309-4ab4-9e68-5b87f14a082d": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Mantra Living is our expression of a way of living where the essence of being lies in surrounding oneself with a collection of beautiful things and understanding the value of their quality.   Our curated collection of classic, honest and authentically created products inspires a meaningful, beautiful and stylish lifestyle.",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify:\/\/collections\/quirky-collection",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "26549d79-05c7-4a7a-a72e-521873debb43",
+        "5fa6bb7e-8309-4ab4-9e68-5b87f14a082d",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/IMG_7775.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "4e268bee-608e-4df3-9a69-1ef032fe0ceb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mantra Glassware",
+            "heading_size": "h1"
+          }
+        },
+        "template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elevate your dining experience with our finest selection of glassware.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore more",
+            "button_link": "shopify:\/\/collections\/glassware",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-heading-1",
+        "template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-text-1",
+        "template--21197989118252__4e268bee-608e-4df3-9a69-1ef032fe0ceb-button-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/22.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "9b5f1ccd-09a3-4a86-bfb4-caa29a64e226": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The quirky collection",
+            "heading_size": "h1"
+          }
+        },
+        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy your daily coffee or tea experience with these one-of-a-kind creations, lovingly hand crafted to bring a touch of beauty and individuality to your every sip.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore more",
+            "button_link": "shopify:\/\/collections\/quirky-collection",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-heading-1",
+        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-text-1",
+        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0042_87995f1f-cebf-487c-a83c-55d1a564652b.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "79f9765b-302d-4b9c-bb8c-714337eb13e5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The petite porcelain collection",
+            "heading_size": "h1"
+          }
+        },
+        "template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Experience the allure of the petite porcelain collection, a symphony of exquisite craftsmanship and timeless beauty.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/petite-porcelain-collection",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-heading-1",
+        "template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-text-1",
+        "template--21197989118252__79f9765b-302d-4b9c-bb8c-714337eb13e5-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0561.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_aQkhWc": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_NJ8TQT": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop this lifestyle",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "buttons_NJ8TQT"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-05-01_at_10.54.41.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_bqVLBp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gehg3D": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h1"
+          }
+        },
+        "text_iYYX7a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gehg3D",
+        "text_iYYX7a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8961.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "0e8a14a9-8313-486b-bd32-bd65b71b1125",
+    "add1bbdc-6390-4d5d-b79a-f5b604783cb1",
+    "3b490c23-de78-45f3-9389-010c2a9bead2",
+    "image_banner",
+    "4e268bee-608e-4df3-9a69-1ef032fe0ceb",
+    "9b5f1ccd-09a3-4a86-bfb4-caa29a64e226",
+    "79f9765b-302d-4b9c-bb8c-714337eb13e5",
+    "image_banner_aQkhWc",
+    "image_with_text_bqVLBp"
+  ]
+}
