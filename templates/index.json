@@ -314,7 +314,6 @@
         "text_iYYX7a"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8961.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -334,7 +333,7 @@
         "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Mantra Lifestyle Glassware",
+            "heading": "Livalicious",
             "heading_size": "h1"
           }
         },
@@ -360,7 +359,6 @@
         "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0635.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -406,7 +404,6 @@
         "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0042_87995f1f-cebf-487c-a83c-55d1a564652b.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
