@@ -2,18 +2,6 @@
   "sections": {
     "image_banner_aQkhWc": {
       "type": "image-banner",
-      "blocks": {
-        "heading_XkBhPa": {
-          "type": "heading",
-          "settings": {
-            "heading": "Welcome to Mantra Living",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_XkBhPa"
-      ],
       "custom_css": [
 
       ],
