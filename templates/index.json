@@ -3,20 +3,16 @@
     "image_banner_aQkhWc": {
       "type": "image-banner",
       "blocks": {
-        "buttons_NJ8TQT": {
-          "type": "buttons",
+        "heading_XkBhPa": {
+          "type": "heading",
           "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
+            "heading": "Enter text here",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "buttons_NJ8TQT"
+        "heading_XkBhPa"
       ],
       "custom_css": [
 
@@ -25,10 +21,10 @@
         "image": "shopify:\/\/shop_images\/Screenshot_2024-05-01_at_11.35.58.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
