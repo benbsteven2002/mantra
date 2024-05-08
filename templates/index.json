@@ -1,19 +1,16 @@
 {
   "sections": {
-    "image_banner_aQkhWc": {
-      "type": "image-banner",
-      "custom_css": [
-
-      ],
+    "custom_banner_Vh6Npc": {
+      "type": "custom-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2024-05-01_at_11.35.58.png",
         "image_2": "shopify:\/\/shop_images\/Screenshot_2024-05-01_at_11.03.43_da7d79da-cd0a-4827-b00d-be19e88a0098.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "top-center",
-        "show_text_box": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -171,22 +168,11 @@
             "button_label": "Button label",
             "button_link": ""
           }
-        },
-        "row_mttXnJ": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "What we believe makes life beautiful",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "row_tp3TRk",
-        "row_4HX4dN",
-        "row_mttXnJ"
+        "row_4HX4dN"
       ],
       "settings": {
         "image_height": "medium",
@@ -259,7 +245,7 @@
     }
   },
   "order": [
-    "image_banner_aQkhWc",
+    "custom_banner_Vh6Npc",
     "image_with_text_bqVLBp",
     "add1bbdc-6390-4d5d-b79a-f5b604783cb1",
     "9b5f1ccd-09a3-4a86-bfb4-caa29a64e226",
