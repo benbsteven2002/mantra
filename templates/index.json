@@ -49,7 +49,7 @@
             "button_label": "Shop Mugs & Jugs",
             "link": "shopify:\/\/collections\/mugs-1",
             "button_style_secondary": false,
-            "box_align": "top-center",
+            "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
