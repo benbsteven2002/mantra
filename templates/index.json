@@ -234,17 +234,17 @@
             "second_image": false
           }
         },
-        "image_EnrHnm": {
-          "type": "image",
+        "collection_zKfY77": {
+          "type": "collection",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0022_4240978e-414c-41a6-9939-cd91c54fde95.jpg"
+            "collection": "jugs"
           }
         }
       },
       "block_order": [
         "image_awKFbG",
         "product_gGMpbz",
-        "image_EnrHnm"
+        "collection_zKfY77"
       ],
       "settings": {
         "heading": "Multimedia collage",
