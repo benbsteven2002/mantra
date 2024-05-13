@@ -91,7 +91,7 @@
         "row_4HX4dN": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF2420_3.jpg",
+            "image": "shopify:\/\/shop_images\/DSCF0899.jpg",
             "caption": "",
             "heading": "Creation of Beautiful Spaces",
             "text": "<p>We want to inspire people to understand what makes a space feel more comfortable& homely with the aim to make people feel good about themselves in their spaces through the creation of a beautiful environment by which they surround themselves and which makes them feel happy. <\/p><p>Mantra Living explores what makes a meal with friends wonderful, a space inviting & homely, gardens thrive, and simply what makes life even more wonderful. <\/p>",
@@ -102,7 +102,7 @@
         "row_WgGCbp": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF0899.jpg",
+            "image": "shopify:\/\/shop_images\/DSCF2420_3.jpg",
             "caption": "",
             "heading": "Slow & Soulful",
             "text": "<p>Our philosophy is simple: less is more and the beauty of life lies in simplicity. We believe in the slow and soulful, in feeding the spirit with meaningful moments. <\/p><p>Join us on this journey of embracing the beauty and happiness in every aspect of life.<\/p>",
@@ -117,8 +117,8 @@
         "row_WgGCbp"
       ],
       "settings": {
-        "image_height": "adapt",
-        "desktop_image_width": "medium",
+        "image_height": "small",
+        "desktop_image_width": "small",
         "heading_size": "h2",
         "text_style": "subtitle",
         "button_style": "primary",
