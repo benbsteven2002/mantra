@@ -74,135 +74,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "image_with_text_bqVLBp": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_gehg3D": {
-          "type": "heading",
-          "settings": {
-            "heading": "Welcome to Mantra Living",
-            "heading_size": "h1"
-          }
-        },
-        "text_iYYX7a": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gehg3D",
-        "text_iYYX7a"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "add1bbdc-6390-4d5d-b79a-f5b604783cb1": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Livalicious",
-            "heading_size": "h1"
-          }
-        },
-        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Everyday glassware.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Explore More",
-            "button_link": "shopify:\/\/collections\/lifestyle",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-heading-1",
-        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-text-1",
-        "template--21197989118252__add1bbdc-6390-4d5d-b79a-f5b604783cb1-button-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 12,
-        "padding_bottom": 0
-      }
-    },
-    "9b5f1ccd-09a3-4a86-bfb4-caa29a64e226": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Has her maniertjies",
-            "heading_size": "h1"
-          }
-        },
-        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Enjoy your daily coffee or tea experience with these one-of-a-kind creations, lovingly hand crafted to bring a touch of beauty and individuality to your every sip.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Explore more",
-            "button_link": "shopify:\/\/collections\/quirky-collection",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-heading-1",
-        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-text-1",
-        "template--21197989118252__9b5f1ccd-09a3-4a86-bfb4-caa29a64e226-button-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 12,
-        "padding_bottom": 0
-      }
-    },
     "multirow_3JtBwj": {
       "type": "multirow",
       "blocks": {
@@ -257,20 +128,6 @@
         "section_color_scheme": "background-2",
         "row_color_scheme": "accent-2",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video_BhkraU": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -334,11 +191,7 @@
   },
   "order": [
     "slideshow_f3JmXG",
-    "image_with_text_bqVLBp",
-    "add1bbdc-6390-4d5d-b79a-f5b604783cb1",
-    "9b5f1ccd-09a3-4a86-bfb4-caa29a64e226",
     "multirow_3JtBwj",
-    "video_BhkraU",
     "collage_9QwDaH",
     "custom_banner_Vh6Npc"
   ]
