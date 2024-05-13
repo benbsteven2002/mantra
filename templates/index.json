@@ -21,6 +21,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "slide_4BpqFB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-01_at_11.52.34.png",
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "SHOP TOWELS",
+            "link": "shopify:\/\/collections\/towels-1",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_QVCke6": {
           "type": "slide",
           "settings": {
@@ -38,30 +56,12 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_4BpqFB": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-01_at_11.52.34.png",
-            "heading": "Welcome to Mantra Living",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "slide_cDRiBK",
-        "slide_QVCke6",
-        "slide_4BpqFB"
+        "slide_4BpqFB",
+        "slide_QVCke6"
       ],
       "settings": {
         "layout": "full_bleed",
