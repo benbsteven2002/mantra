@@ -170,41 +170,42 @@
         "padding_bottom": 36
       }
     },
-    "collage_9QwDaH": {
-      "type": "collage",
+    "collection_list_fQHMni": {
+      "type": "collection-list",
       "blocks": {
-        "image_awKFbG": {
-          "type": "image",
+        "featured_collection_hLWcbj": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-01_at_11.48.30_12e65fad-6822-42b9-8586-812a98fc3613.png"
+            "collection": "everyday-living-1"
           }
         },
-        "product_gGMpbz": {
-          "type": "product",
+        "featured_collection_xXKGeF": {
+          "type": "featured_collection",
           "settings": {
-            "product": "green-tea-jug",
-            "second_image": false
+            "collection": "lifestyle-1"
           }
         },
-        "collection_zKfY77": {
-          "type": "collection",
+        "featured_collection_9Hfy96": {
+          "type": "featured_collection",
           "settings": {
-            "collection": "jugs"
+            "collection": "bath-body"
           }
         }
       },
       "block_order": [
-        "image_awKFbG",
-        "product_gGMpbz",
-        "collection_zKfY77"
+        "featured_collection_hLWcbj",
+        "featured_collection_xXKGeF",
+        "featured_collection_9Hfy96"
       ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "",
+        "title": "Curated Collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -224,46 +225,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "collection_list_fQHMni": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_hLWcbj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_xXKGeF": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_9Hfy96": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_hLWcbj",
-        "featured_collection_xXKGeF",
-        "featured_collection_9Hfy96"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "featured_blog_qhiw4H": {
@@ -287,9 +248,8 @@
   "order": [
     "slideshow_f3JmXG",
     "multirow_3JtBwj",
-    "collage_9QwDaH",
-    "custom_banner_Vh6Npc",
     "collection_list_fQHMni",
+    "custom_banner_Vh6Npc",
     "featured_blog_qhiw4H"
   ]
 }
