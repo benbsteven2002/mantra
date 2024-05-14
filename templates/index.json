@@ -85,7 +85,7 @@
             "button_label": "Shop Glassware",
             "link": "shopify:\/\/collections\/glasses",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "top-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
