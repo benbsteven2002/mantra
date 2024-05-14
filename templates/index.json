@@ -57,6 +57,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "slide_pPpLem": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.10.33.png",
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h2",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Shop Lifestyle",
+            "link": "shopify:\/\/collections\/lifestyle-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_bMNJ3P": {
           "type": "slide",
           "settings": {
@@ -80,6 +98,7 @@
         "slide_cDRiBK",
         "slide_4BpqFB",
         "slide_QVCke6",
+        "slide_pPpLem",
         "slide_bMNJ3P"
       ],
       "settings": {
