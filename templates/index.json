@@ -56,12 +56,49 @@
             "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_q4rr6i": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_bMNJ3P": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.00.13.png",
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop Glassware",
+            "link": "shopify:\/\/collections\/glasses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_cDRiBK",
         "slide_4BpqFB",
-        "slide_QVCke6"
+        "slide_QVCke6",
+        "slide_q4rr6i",
+        "slide_bMNJ3P"
       ],
       "settings": {
         "layout": "full_bleed",
