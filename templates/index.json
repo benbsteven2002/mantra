@@ -92,6 +92,24 @@
             "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_M8yAzz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Picture_1.jpg",
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
@@ -99,7 +117,8 @@
         "slide_4BpqFB",
         "slide_QVCke6",
         "slide_pPpLem",
-        "slide_bMNJ3P"
+        "slide_bMNJ3P",
+        "slide_M8yAzz"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -120,7 +139,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_0369.jpg",
             "caption": "",
-            "heading": "Lifestyle. Home. Food. Garden.",
+            "heading": "A world of beautiful living",
             "text": "<p>Mantra Living is a reflection of our lifestyle through the curation of all the elements that we love, appreciate and are passionate about.  <\/p><p>It is a celebration of our idea of living where the beauty lies in simplicity and where every aspect of beautiful living is reflected in the choices that we make.<\/p><p>Mantra Living inspires a beautiful way of living in every aspect of your lifestyle.<\/p>",
             "button_label": "",
             "button_link": ""
@@ -131,7 +150,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-05-14_at_10.25.49.jpg",
             "caption": "",
-            "heading": "Beautiful Experiences",
+            "heading": "Understading the value of quality",
             "text": "<p>Understanding what makes a space feel inviting-  be it the soft glow of gentle lighting or a beautiful experience like the comfort of drinking out of a well loved mug - is at the heart of our mission.<\/p><p>Mantra Living reminds on of what makes a meal with friends wonderful, a space inviting & comfortable, and a garden that one wants to spend time in, and simply what makes life beautiful.<\/p>",
             "button_label": "Shop Everyday Living",
             "button_link": "shopify:\/\/collections\/everyday-living-1"
