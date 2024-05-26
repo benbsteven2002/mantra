@@ -18,31 +18,19 @@
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
-        },
-        "buttons_E8MbAh": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_WJBUwY",
-        "text_XxpHVH",
-        "buttons_E8MbAh"
+        "text_XxpHVH"
       ],
+      "disabled": true,
       "settings": {
         "image": "{{ collection.image }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
@@ -53,7 +41,6 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "custom_css": [
         ".collection-hero__text-wrapper {padding-top: 10px; padding-bottom: 0px;}",
         ".collection-hero {padding-top: 0px; padding-bottom: 0px;}",
