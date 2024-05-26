@@ -4,7 +4,8 @@
       "type": "main-collection-banner",
       "custom_css": [
         ".collection-hero__text-wrapper {padding-top: 10px; padding-bottom: 0px;}",
-        ".collection-hero {padding-top: 0px; padding-bottom: 0px;}"
+        ".collection-hero {padding-top: 0px; padding-bottom: 0px;}",
+        ".collection-hero__inner{height: 350px;}"
       ],
       "settings": {
         "show_collection_description": true,
