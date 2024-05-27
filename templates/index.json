@@ -26,8 +26,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2024-05-13_at_11.03.12.png",
             "heading": "Welcome to Mantra Living",
-            "heading_size": "h2",
-            "subheading": "",
+            "heading_size": "h1",
+            "subheading": "Curate a world surrounded by beautiful products",
             "button_label": "Shop Towels",
             "link": "shopify:\/\/collections\/towels-1",
             "button_style_secondary": false,
