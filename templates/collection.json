@@ -24,7 +24,6 @@
         "heading_WJBUwY",
         "text_XxpHVH"
       ],
-      "disabled": true,
       "settings": {
         "image": "{{ collection.image }}",
         "image_overlay_opacity": 0,
@@ -41,6 +40,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
         ".collection-hero__text-wrapper {padding-top: 10px; padding-bottom: 0px;}",
         ".collection-hero {padding-top: 0px; padding-bottom: 0px;}",
