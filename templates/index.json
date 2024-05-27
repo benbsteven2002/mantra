@@ -8,8 +8,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.13.06.png",
             "heading": "Welcome to Mantra Living",
-            "heading_size": "h2",
-            "subheading": "The essence of beautiful living lies in understanding the value of quality",
+            "heading_size": "h1",
+            "subheading": "Create beautiful table settings around which delicious meals are shared & conversations had",
             "button_label": "Shop our Curated Collection",
             "link": "shopify:\/\/collections\/everyday-living-1",
             "button_style_secondary": false,
