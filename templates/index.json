@@ -174,8 +174,8 @@
         "row_WgGCbp"
       ],
       "settings": {
-        "image_height": "small",
-        "desktop_image_width": "medium",
+        "image_height": "adapt",
+        "desktop_image_width": "small",
         "heading_size": "h2",
         "text_style": "subtitle",
         "button_style": "primary",
