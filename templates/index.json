@@ -62,7 +62,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.19.49.png",
             "heading": "Welcome to Mantra Living",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "Collect beautiful products that enhance your everyday experiences.",
             "button_label": "Shop Lifestyle",
             "link": "shopify:\/\/collections\/lifestyle-1",
