@@ -80,7 +80,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.00.13.png",
             "heading": "Welcome to Mantra Living",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "Shape the beauty of everyday living with the products you choose to use",
             "button_label": "Shop Glassware",
             "link": "shopify:\/\/collections\/glasses",
