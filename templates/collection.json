@@ -5,9 +5,8 @@
       "blocks": {
         "heading_WJBUwY": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image banner",
+            "heading": "{{ collection.title }}",
             "heading_size": "h1"
           }
         },
