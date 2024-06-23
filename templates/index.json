@@ -129,6 +129,9 @@
         "slide_bMNJ3P",
         "slide_M8yAzz"
       ],
+      "custom_css": [
+        ".banner__text {color: white;}"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
