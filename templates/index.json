@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow_f3JmXG": {
@@ -175,7 +184,7 @@
       ],
       "settings": {
         "image_height": "medium",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "heading_size": "h2",
         "text_style": "subtitle",
         "button_style": "primary",
