@@ -28,10 +28,6 @@
       opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
     }
 
-    @font-face {
-      font-family: 'High Spirited';
-      src: url('{{ 'High Spirited.ttf' | asset_url }}') format('truetype');
-    }
 {%- endstyle -%}
 
 {%- liquid
@@ -122,7 +118,7 @@
         {%- case block.type -%}
           {%- when 'heading' -%}
             <h2
-              class="banner__heading inline-richtext {{ block.settings.heading_size }} high-spirited-font"
+              class="banner__heading inline-richtext {{ block.settings.heading_size }}"
               {{ block.shopify_attributes }}
             >
               {{ block.settings.heading }}
