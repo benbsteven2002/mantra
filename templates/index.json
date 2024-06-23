@@ -130,7 +130,7 @@
         "slide_M8yAzz"
       ],
       "custom_css": [
-        ".banner__text {color: white;}"
+        ".banner__text {color: white; font-size: 18px;}"
       ],
       "settings": {
         "layout": "full_bleed",
