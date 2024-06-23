@@ -130,7 +130,7 @@
         "slide_M8yAzz"
       ],
       "custom_css": [
-        ".h2 {font-size: 60px;}",
+        ".banner__heading {font-size: 82px;}",
         ".banner__text {color: white; font-size: 18px;}"
       ],
       "settings": {
