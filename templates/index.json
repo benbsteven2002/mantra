@@ -188,6 +188,9 @@
         "row_4HX4dN",
         "row_WgGCbp"
       ],
+      "custom_css": [
+        ".multirow__inner {max-width: 1200px;}"
+      ],
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "small",
