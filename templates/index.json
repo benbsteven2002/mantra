@@ -184,7 +184,7 @@
       ],
       "settings": {
         "image_height": "medium",
-        "desktop_image_width": "small",
+        "desktop_image_width": "large",
         "heading_size": "h2",
         "text_style": "subtitle",
         "button_style": "primary",
