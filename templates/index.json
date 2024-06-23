@@ -132,7 +132,7 @@
       "custom_css": [
         ".banner__heading {font-size: 82px;}",
         ".banner__text {color: white; font-size: 18px;}",
-        "@media (max-width: 768px) {.banner__heading {font-size: 55px; }}"
+        "@media (max-width: 768px) {.banner__heading {font-size: 62px; }}"
       ],
       "settings": {
         "layout": "full_bleed",
