@@ -181,23 +181,12 @@
             "button_label": "",
             "button_link": "shopify:\/\/collections\/lifestyle-1"
           }
-        },
-        "row_iYehNF": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "row_tp3TRk",
         "row_4HX4dN",
-        "row_WgGCbp",
-        "row_iYehNF"
+        "row_WgGCbp"
       ],
       "custom_css": [
         ".multirow__inner {max-width: 1200px;}"
