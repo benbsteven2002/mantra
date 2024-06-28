@@ -203,7 +203,7 @@
         ".multirow__inner {max-width: 1200px;}"
       ],
       "settings": {
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_image_width": "medium",
         "heading_size": "h2",
         "text_style": "subtitle",
