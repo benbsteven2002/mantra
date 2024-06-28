@@ -12,15 +12,15 @@
     "slideshow_f3JmXG": {
       "type": "slideshow",
       "blocks": {
-        "slide_cDRiBK": {
+        "slide_bMNJ3P": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.13.06.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-28_at_12.08.42.png",
             "heading": "Welcome to Mantra Living",
             "heading_size": "h1",
-            "subheading": "Create beautiful table settings around which delicious meals are shared & conversations had",
-            "button_label": "Shop our Curated Collection",
-            "link": "shopify:\/\/collections\/everyday-living-1",
+            "subheading": "Shape the beauty of everyday living with the products you choose to use",
+            "button_label": "Shop Glassware",
+            "link": "shopify:\/\/collections\/glasses",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -66,15 +66,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_pPpLem": {
+        "slide_cDRiBK": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-28_at_12.21.47.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.13.06.png",
             "heading": "Welcome to Mantra Living",
             "heading_size": "h1",
-            "subheading": "Collect beautiful products that enhance your everyday experiences.",
-            "button_label": "Shop Lifestyle",
-            "link": "shopify:\/\/collections\/lifestyle-1",
+            "subheading": "Create beautiful table settings around which delicious meals are shared & conversations had",
+            "button_label": "Shop our Curated Collection",
+            "link": "shopify:\/\/collections\/everyday-living-1",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -84,15 +84,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_bMNJ3P": {
+        "slide_pPpLem": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-28_at_12.08.42.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-28_at_12.21.47.png",
             "heading": "Welcome to Mantra Living",
             "heading_size": "h1",
-            "subheading": "Shape the beauty of everyday living with the products you choose to use",
-            "button_label": "Shop Glassware",
-            "link": "shopify:\/\/collections\/glasses",
+            "subheading": "Collect beautiful products that enhance your everyday experiences.",
+            "button_label": "Shop Lifestyle",
+            "link": "shopify:\/\/collections\/lifestyle-1",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -122,11 +122,11 @@
         }
       },
       "block_order": [
-        "slide_cDRiBK",
+        "slide_bMNJ3P",
         "slide_4BpqFB",
         "slide_QVCke6",
+        "slide_cDRiBK",
         "slide_pPpLem",
-        "slide_bMNJ3P",
         "slide_M8yAzz"
       ],
       "custom_css": [
