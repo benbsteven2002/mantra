@@ -163,7 +163,7 @@
         "row_4HX4dN": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-05-14_at_10.25.49.jpg",
+            "image": "shopify:\/\/shop_images\/DSCF3714.jpg",
             "caption": "",
             "heading": "The essence of beautiful experiences",
             "text": "<p>Our curated collection of classic, honest, and authentically created products inspires a meaningful, beautiful and stylish lifestyle.<\/p><p>Understanding beautiful living and what makes these experiences memorable is at the heart of our mission. Be it the gentle glow of a candle adding magic to a room, creating beautiful table settings around which delicious meals are shared & conversations had,  or the comfort of drinking out of a well-loved handcrafted mug.  <\/p>",
@@ -174,19 +174,30 @@
         "row_WgGCbp": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF2420_3.jpg",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-28_at_12.18.04.png",
             "caption": "",
             "heading": "Living in a world of style & charm",
             "text": "<p>Mantra Living is the culmination of a  lifetime worth of loving good food, nurturing wild gardens, creating inviting spaces and collecting quality products. It is a reflection on the past of these experiences and an excitement for the future. It is a  testimony to living a life filled with romance, character and charm.<\/p><p>Experience this journey by embracing the beauty that life has to offer in our world of beautiful living.<\/p>",
             "button_label": "",
             "button_link": "shopify:\/\/collections\/lifestyle-1"
           }
+        },
+        "row_iYehNF": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "row_tp3TRk",
         "row_4HX4dN",
-        "row_WgGCbp"
+        "row_WgGCbp",
+        "row_iYehNF"
       ],
       "custom_css": [
         ".multirow__inner {max-width: 1200px;}"
