@@ -30,24 +30,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_4BpqFB": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-13_at_11.03.12.png",
-            "heading": "Welcome to Mantra Living",
-            "heading_size": "h1",
-            "subheading": "Surround yourself with beautiful products and embrace the moments they create.",
-            "button_label": "Shop Beach Towels",
-            "link": "shopify:\/\/collections\/towels-1",
-            "button_style_secondary": false,
-            "box_align": "top-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_QVCke6": {
           "type": "slide",
           "settings": {
@@ -66,15 +48,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_cDRiBK": {
+        "slide_4BpqFB": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.13.06.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-13_at_11.03.12.png",
             "heading": "Welcome to Mantra Living",
             "heading_size": "h1",
-            "subheading": "Shape the beauty of everyday living with the products you choose to use",
-            "button_label": "Shop our Curated Collection",
-            "link": "shopify:\/\/collections\/everyday-living-1",
+            "subheading": "Surround yourself with beautiful products and embrace the moments they create.",
+            "button_label": "Shop Beach Towels",
+            "link": "shopify:\/\/collections\/towels-1",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -93,6 +75,24 @@
             "subheading": "Collect beautiful products that enhance your everyday experiences.",
             "button_label": "Shop Mugs",
             "link": "shopify:\/\/collections\/lifestyle-1",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_cDRiBK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.13.06.png",
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h1",
+            "subheading": "Shape the beauty of everyday living with the products you choose to use",
+            "button_label": "Shop our Curated Collection",
+            "link": "shopify:\/\/collections\/everyday-living-1",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -123,10 +123,10 @@
       },
       "block_order": [
         "slide_bMNJ3P",
-        "slide_4BpqFB",
         "slide_QVCke6",
-        "slide_cDRiBK",
+        "slide_4BpqFB",
         "slide_pPpLem",
+        "slide_cDRiBK",
         "slide_M8yAzz"
       ],
       "custom_css": [
