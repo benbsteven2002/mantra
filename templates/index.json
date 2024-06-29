@@ -310,10 +310,10 @@
       "settings": {
         "title": "Shop Our Curated Collections",
         "heading_size": "h2",
-        "image_width": "half",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "View All",
         "button_link": "",
