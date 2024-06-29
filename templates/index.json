@@ -308,9 +308,9 @@
         ".multicolumn-card {background: none;}"
       ],
       "settings": {
-        "title": "Curated Collections",
-        "heading_size": "h1",
-        "image_width": "full",
+        "title": "Shop Our Curated Collections",
+        "heading_size": "h2",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
