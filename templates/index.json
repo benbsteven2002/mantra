@@ -278,16 +278,6 @@
             "link": "shopify:\/\/collections\/everyday-living-1"
           }
         },
-        "column_c4PFcB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF0666.jpg",
-            "title": "Lifestyle",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/lifestyle-1"
-          }
-        },
         "column_W8grGa": {
           "type": "column",
           "settings": {
@@ -297,12 +287,22 @@
             "link_label": "",
             "link": "shopify:\/\/collections\/bath-body"
           }
+        },
+        "column_c4PFcB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF0666.jpg",
+            "title": "Lifestyle",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/lifestyle-1"
+          }
         }
       },
       "block_order": [
         "column_rJY3NL",
-        "column_c4PFcB",
-        "column_W8grGa"
+        "column_W8grGa",
+        "column_c4PFcB"
       ],
       "custom_css": [
         ".multicolumn-card {background: none;}"
