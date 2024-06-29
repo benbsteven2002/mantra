@@ -278,16 +278,6 @@
             "link": "shopify:\/\/collections\/everyday-living-1"
           }
         },
-        "column_W8grGa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3087.jpg",
-            "title": "Bath & Body",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/bath-body"
-          }
-        },
         "column_c4PFcB": {
           "type": "column",
           "settings": {
@@ -297,12 +287,22 @@
             "link_label": "",
             "link": "shopify:\/\/collections\/lifestyle-1"
           }
+        },
+        "column_W8grGa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF3087.jpg",
+            "title": "Bath & Body",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/bath-body"
+          }
         }
       },
       "block_order": [
         "column_rJY3NL",
-        "column_W8grGa",
-        "column_c4PFcB"
+        "column_c4PFcB",
+        "column_W8grGa"
       ],
       "custom_css": [
         ".multicolumn-card {background: none;}"
