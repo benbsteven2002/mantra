@@ -282,9 +282,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF0666.jpg",
-            "title": "Lifestyle",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Lifestyle",
             "link": "shopify:\/\/collections\/lifestyle-1"
           }
         },
