@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -8,8 +17,8 @@
         "text_T6g4fU": {
           "type": "text",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "subtext": "<p>To discover how to create a space that is inviting & homely, host beautiful dining experiences, make delicious food, learn how to make your garden flourish, and join us on our journey of discovering what what makes life simply just wonderful. <\/p>"
+            "heading": "Subscribe to our diary",
+            "subtext": "<p>Discover how to create a space that is inviting & homely, the essentials for hosting beautiful dining experiences, how to make delicious food and how to make your garden flourish.  <\/p><p>Join us on our journey of discovering what what makes life simply just wonderful. <\/p>"
           }
         }
       },
@@ -17,7 +26,7 @@
         "text_T6g4fU"
       ],
       "settings": {
-        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+        "color_scheme": "accent-2",
         "newsletter_enable": true,
         "newsletter_heading": "",
         "enable_follow_on_shop": true,
