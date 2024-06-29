@@ -272,9 +272,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF3281_9634f33f-4314-4293-90c0-0f870cca7889.jpg",
-            "title": "Everyday Living",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Everyday Living",
             "link": "shopify:\/\/collections\/everyday-living-1"
           }
         },
