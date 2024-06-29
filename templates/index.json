@@ -292,9 +292,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF3087.jpg",
-            "title": "Bath & Body",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Bath & Body",
             "link": "shopify:\/\/collections\/bath-body"
           }
         }
