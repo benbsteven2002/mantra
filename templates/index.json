@@ -287,11 +287,22 @@
             "link_label": "",
             "link": "shopify:\/\/collections\/lifestyle-1"
           }
+        },
+        "column_W8grGa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF3120_2.jpg",
+            "title": "Bath & Body",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/bath-body"
+          }
         }
       },
       "block_order": [
         "column_rJY3NL",
-        "column_c4PFcB"
+        "column_c4PFcB",
+        "column_W8grGa"
       ],
       "custom_css": [
         ".multicolumn-card {background: none;}"
