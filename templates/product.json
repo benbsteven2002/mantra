@@ -40,6 +40,13 @@
           "settings": {
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
         "swym_gift_lists_and_registries_swym_registry_add_button_bD4rtf": {
           "type": "shopify:\/\/apps\/swym-gift-lists-and-registries\/blocks\/swym-registry-add-button\/08b4c8ab-fc8b-4e5f-84b6-cc3c7d669113",
           "settings": {
@@ -68,13 +75,6 @@
             "swym_registry_success_continue": "Continue Adding"
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -93,8 +93,8 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "swym_gift_lists_and_registries_swym_registry_add_button_bD4rtf",
         "buy_buttons",
+        "swym_gift_lists_and_registries_swym_registry_add_button_bD4rtf",
         "description",
         "share"
       ],
