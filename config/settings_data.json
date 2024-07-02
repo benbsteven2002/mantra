@@ -130,10 +130,10 @@
     "swym_registry_page_font_family": "century_gothic_n4",
     "swym_registry_page_header_color": "#F1F1F1",
     "swym_registry_page_header_background_color": "#d19000",
-    "swym_registry_page_content_color": "#242833",
-    "swym_registry_page_content_background_color": "#faf9f6",
+    "swym_registry_page_content_color": "#000",
+    "swym_registry_page_content_background_color": "#faf9f5",
     "swym_registry_btn_text_color": "#F1F1F1",
-    "swym_registry_btn_background_color": "#d19000",
+    "swym_registry_btn_background_color": "#0D2236",
     "swym_registry_form_create_title_text": "Create Your Registry",
     "swym_registry_registrant_state_label": "Region",
     "sections": {
