@@ -127,6 +127,12 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "swym_registry_page_header_color": "#F1F1F1",
+    "swym_registry_page_header_background_color": "#0D2236",
+    "swym_registry_page_content_color": "#000",
+    "swym_registry_page_content_background_color": "#fff",
+    "swym_registry_btn_text_color": "#F1F1F1",
+    "swym_registry_btn_background_color": "#0D2236",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -214,13 +220,7 @@
           "shadow": "#121212"
         }
       }
-    },
-    "swym_registry_page_header_color": "#F1F1F1",
-    "swym_registry_page_header_background_color": "#0D2236",
-    "swym_registry_page_content_color": "#000",
-    "swym_registry_page_content_background_color": "#fff",
-    "swym_registry_btn_text_color": "#F1F1F1",
-    "swym_registry_btn_background_color": "#0D2236"
+    }
   },
   "presets": {
     "Default": {
