@@ -394,13 +394,3 @@ slider-component.slider-component-full-width {
 .slider-button--prev:not([disabled]):hover .icon {
   transform: rotate(90deg) scale(1.1);
 }
-
-/* CSS for fading effect on slideshow images */
-.slider__slide {
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-}
-
-.slider__slide.is-active {
-  opacity: 1;
-}
