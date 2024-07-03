@@ -22,11 +22,10 @@
         display: block;
       }
     }
-    
   {%- endstyle -%}
 {%- endif -%}
 
-{%  style  %} 
+{% style %}
   @font-face {
     font-family: 'HighSpirited';
     src: url('{{ "HighSpirited.woff2" | asset_url }}') format('woff2'),
@@ -35,7 +34,14 @@
     font-weight: normal;
     font-style: normal;
   }
- {% endstyle %}
+  .slider__slide {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+  }
+
+  .slider__slide.is-active {
+    opacity: 1;
+{% endstyle %}
 
 <slideshow-component
   class="slider-mobile-gutter{% if section.settings.layout == 'grid' %} page-width{% endif %}{% if section.settings.show_text_below %} mobile-text-below{% endif %}"
