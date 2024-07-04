@@ -64,7 +64,8 @@
       "type": "main-collection-product-grid",
       "custom_css": [
         ".card__information {padding-top: 0; padding-bottom: 0;}",
-        "button {background-color: rgba(255, 0, 0, 0); border: none;}"
+        "button {background-color: rgba(255, 0, 0, 0);}",
+        "button--no-border {border: none;}"
       ],
       "settings": {
         "products_per_page": 20,
