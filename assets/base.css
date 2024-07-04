@@ -3333,7 +3333,7 @@ details-disclosure > details {
 
   @keyframes fadeIn {
     from {
-      opacity: 0.01;
+      opacity: 0;
     }
     to {
       opacity: 1;
@@ -3348,6 +3348,15 @@ details-disclosure > details {
       opacity: 0;
     }
   }
+
+  .fade-in {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .fade-out {
+    animation: fadeOut 1s ease-in-out;
+  }
+  
 }
 
 /* Element Hovers: Vertical Lift, 3d Lift */
