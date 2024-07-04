@@ -64,7 +64,7 @@
       "type": "main-collection-product-grid",
       "custom_css": [
         ".card__information {padding-top: 0; padding-bottom: 0;}",
-        "button {background-color: rgba(255, 0, 0, 0); border-color-left: rgba(255, 0, 0, 0);}"
+        "button {background-color: rgba(255, 0, 0, 0); border: none; \/* Remove border *\/ outline: none; \/* Remove outline *\/}"
       ],
       "settings": {
         "products_per_page": 20,
