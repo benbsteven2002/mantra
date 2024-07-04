@@ -65,7 +65,7 @@
       "custom_css": [
         ".card__information {padding-top: 0; padding-bottom: 0;}",
         "button {background-color: rgba(255, 0, 0, 0);}",
-        ".button--no-border-offset {--border-offset: 0 !important;}"
+        ".button--border-offset {--border-offset: 0;}"
       ],
       "settings": {
         "products_per_page": 20,
