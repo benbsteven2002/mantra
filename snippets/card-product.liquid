@@ -208,7 +208,7 @@
           </div>
         </div>
         {%- if show_quick_add -%}
-          <div class="quick-add no-js-hidden" style="position: absolute; top: 0px; right: 0px;">
+          <div class="quick-add no-js-hidden" style="position: absolute; top: 5px; right: 5px;">
             {%- liquid
               assign product_form_id = 'quick-add-' | append: section_id | append: card_product.id
               assign qty_rules = false
@@ -276,11 +276,11 @@
                     class="product-variant-id"
                     disabled
                   >
-                  <button
+                  <a
                     id="{{ product_form_id }}-submit"
                     type="submit"
                     name="add"
-                    class="quick-add__submit button button--icon" -->
+                    class="quick-add__submit button button--icon"
                     aria-haspopup="dialog"
                     aria-labelledby="{{ product_form_id }}-submit title-{{ section_id }}-{{ card_product.id }}"
                     aria-live="polite"
@@ -301,7 +301,7 @@
                         <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
                       </svg>
                     </div>
-                  </button>
+                  </a>
                 {%- endform -%}
               </product-form>
             {%- endif -%}
