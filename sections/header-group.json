@@ -38,8 +38,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "\/* Menu items white *\/.list-menu__item span {color: white;}",
-        " \/* Nav bar items *\/a#HeaderMenu-home {padding-top: 0; padding-bottom: 0;}",
+        "\/* Nav bar items *\/a#HeaderMenu-home {padding-top: 0; padding-bottom: 0;}",
         "header-menu details summary {padding-top: 0; padding-bottom: 0;}",
         "a#HeaderMenu-contact {padding-top: 0; padding-bottom: 0;}",
         "nav.header__inline-menu {margin: 0;}",
