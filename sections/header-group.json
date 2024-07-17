@@ -20,10 +20,18 @@
             "text": "Free Shipping on Orders Above R1000!",
             "link": ""
           }
+        },
+        "announcement_7icMLK": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping in Cape Town",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_7icMLK"
       ],
       "settings": {
         "color_scheme": "accent-2",
