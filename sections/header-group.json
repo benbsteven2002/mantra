@@ -43,7 +43,8 @@
         "header-menu details summary {padding-top: 0; padding-bottom: 0;}",
         "a#HeaderMenu-contact {padding-top: 0; padding-bottom: 0;}",
         "nav.header__inline-menu {margin: 0;}",
-        " \/* Logo *\/a.header__heading-link {padding: 0;}"
+        " \/* Logo *\/a.header__heading-link {padding: 0;}",
+        ".header__menu-item {padding-bottom: 0px; padding-top: 0px;}"
       ],
       "settings": {
         "logo_position": "top-center",
