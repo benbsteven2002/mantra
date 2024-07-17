@@ -24,7 +24,7 @@
         "announcement_7icMLK": {
           "type": "announcement",
           "settings": {
-            "text": "Free Shipping in Cape Town",
+            "text": "Free Shipping within Cape Town",
             "link": ""
           }
         },
@@ -42,7 +42,7 @@
         "announcement_hmyMGx"
       ],
       "custom_css": [
-        ".announcement-bar__message {font-size: 14px;}"
+        ".announcement-bar__message {font-size: 14px; padding-bottom: 0px;}"
       ],
       "settings": {
         "color_scheme": "accent-2",
