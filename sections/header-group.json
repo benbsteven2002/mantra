@@ -44,7 +44,8 @@
         "a#HeaderMenu-contact {padding-top: 0; padding-bottom: 0;}",
         "nav.header__inline-menu {margin: 0;}",
         " \/* Logo *\/a.header__heading-link {padding: 0;}",
-        "#HeaderMenu-decorative-pieces{padding-top: 0px; bottom: 0px;}"
+        "#HeaderMenu-decorative-pieces {padding-top: 0px; padding-bottom: 0px;}",
+        "#HeaderMenu-lifestyle-towels {color: blac}"
       ],
       "settings": {
         "logo_position": "top-center",
