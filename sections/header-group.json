@@ -42,7 +42,7 @@
         "announcement_hmyMGx"
       ],
       "custom_css": [
-        ".announcement-bar__message {font-size: 14px; padding-bottom: 0px;}"
+        ".announcement-bar__message {font-size: 14px;}"
       ],
       "settings": {
         "color_scheme": "accent-2",
