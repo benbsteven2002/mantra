@@ -11,13 +11,49 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "newsletter_BPthkC": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_QxKRBH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to Decorative Pieces",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_dGejqr": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new decorative pieces.<\/p>"
+          }
+        },
+        "email_form_pErDHg": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_QxKRBH",
+        "paragraph_dGejqr",
+        "email_form_pErDHg"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "newsletter_BPthkC"
   ]
 }
