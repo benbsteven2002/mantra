@@ -27,18 +27,26 @@
             "text": "Free Shipping in Cape Town",
             "link": ""
           }
+        },
+        "announcement_hmyMGx": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free pickup available in store!",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_7icMLK"
+        "announcement_7icMLK",
+        "announcement_hmyMGx"
       ],
       "settings": {
         "color_scheme": "accent-2",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,
-        "change_slides_speed": 5,
+        "change_slides_speed": 4,
         "enable_country_selector": false,
         "enable_language_selector": false
       }
