@@ -87,12 +87,12 @@
         "slide_cDRiBK": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-14_at_10.13.06.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-07-20_at_15.00.02.png",
             "heading": "Welcome to Mantra Living",
             "heading_size": "h1",
             "subheading": "Shape the beauty of everyday living with the products you choose to use",
-            "button_label": "Shop Glassware",
-            "link": "shopify:\/\/collections\/glasses",
+            "button_label": "Shop Bath & Body",
+            "link": "shopify:\/\/collections\/bathroom-accessories",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
