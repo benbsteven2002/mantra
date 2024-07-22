@@ -17,6 +17,54 @@
         "padding_bottom": 28
       }
     },
+    "image_banner_jCJf3c": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_nCFt9W": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to Decorative Pieces",
+            "heading_size": "h1"
+          }
+        },
+        "text_JgtP9p": {
+          "type": "text",
+          "settings": {
+            "text": "Discover the Art of Decoration with our Curated Decorative Pieces",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_EtmEij": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nCFt9W",
+        "text_JgtP9p",
+        "buttons_EtmEij"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF3660.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_with_text_EQikJc": {
       "type": "image-with-text",
       "blocks": {
@@ -167,62 +215,14 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "image_banner_jCJf3c": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_nCFt9W": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_JgtP9p": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_EtmEij": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_nCFt9W",
-        "text_JgtP9p",
-        "buttons_EtmEij"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF3660.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "main",
+    "image_banner_jCJf3c",
     "image_with_text_EQikJc",
     "collection_list_giCHzQ",
     "rich_text_3rhTnm",
-    "newsletter_BPthkC",
-    "image_banner_jCJf3c"
+    "newsletter_BPthkC"
   ]
 }
