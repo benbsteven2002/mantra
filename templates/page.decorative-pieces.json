@@ -30,14 +30,14 @@
         "text_GPreKX": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Discover the Art of Decoration with our Curated Collections<\/p>",
+            "text_style": "subtitle"
           }
         },
-        "button_Bz6tbh": {
+        "button_g3Gcgb": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Shop All",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -46,9 +46,10 @@
       "block_order": [
         "heading_hrDdYi",
         "text_GPreKX",
-        "button_Bz6tbh"
+        "button_g3Gcgb"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF3660.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
