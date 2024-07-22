@@ -313,6 +313,7 @@
     },
     "featured_blog_qhiw4H": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Our Mantra Living Diary",
         "heading_size": "h2",
