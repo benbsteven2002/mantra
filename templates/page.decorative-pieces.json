@@ -30,7 +30,7 @@
         "text_GPreKX": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover the Art of Decoration with our Curated Collections.<\/p>",
+            "text": "<p>Discover the Art of Decoration with our Curated Decorative Pieces<\/p>",
             "text_style": "subtitle"
           }
         },
@@ -84,7 +84,7 @@
         "featured_collection_J9YzTx": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "decorative-pieces-2"
           }
         },
         "featured_collection_zdkTiL": {
