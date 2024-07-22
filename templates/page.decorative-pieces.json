@@ -30,7 +30,7 @@
         "text_GPreKX": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover the Art of Decoration with our Curated Collections<\/p>",
+            "text": "<p>Discover the Art of Decoration with our Curated Collections. <\/p>",
             "text_style": "subtitle"
           }
         },
@@ -56,7 +56,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -69,7 +69,7 @@
         "featured_collection_RAqBy4": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "decorative-pieces"
           }
         },
         "featured_collection_J9YzTx": {
