@@ -30,7 +30,7 @@
         "text_GPreKX": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover the Art of Decoration with our Curated Collections. <\/p>",
+            "text": "<p>Discover the Art of Decoration with our Curated Collections.<\/p>",
             "text_style": "subtitle"
           }
         },
@@ -41,12 +41,21 @@
             "button_link": "#",
             "button_style_secondary": false
           }
+        },
+        "caption_txgP34": {
+          "type": "caption",
+          "settings": {
+            "caption": "Subscribe to our decorative pieces emailer to be the first to know about new decorative pieces",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
         }
       },
       "block_order": [
         "heading_hrDdYi",
         "text_GPreKX",
-        "button_g3Gcgb"
+        "button_g3Gcgb",
+        "caption_txgP34"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCF3660.jpg",
