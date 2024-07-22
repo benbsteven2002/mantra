@@ -102,6 +102,73 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_3rhTnm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_qx4gEy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Transform your living spaces with our exquisite collection of decorative pieces. Each item in our selection is thoughtfully curated to add a touch of elegance, charm, and personality to your home. From handcrafted vases unique wall art and beautiful ceramics, our decorative pieces are designed to inspire and elevate your interior decor. Whether you're looking for a statement piece to create a focal point or subtle accents to complement your style, you'll find something special in our collection. Embrace the art of decoration and make your home a true reflection of your taste and creativity.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_qx4gEy"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_wmbNcY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hNiAwH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_4xPcma": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_Bxprhh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hNiAwH",
+        "text_4xPcma",
+        "button_Bxprhh"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "newsletter_BPthkC": {
       "type": "newsletter",
       "blocks": {
@@ -141,6 +208,8 @@
     "main",
     "image_with_text_EQikJc",
     "collection_list_giCHzQ",
+    "rich_text_3rhTnm",
+    "image_with_text_wmbNcY",
     "newsletter_BPthkC"
   ]
 }
