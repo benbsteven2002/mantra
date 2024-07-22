@@ -279,10 +279,21 @@
             "button_label": "Create my Registry",
             "button_link": "shopify:\/\/pages\/swym-registry-home"
           }
+        },
+        "row_phXFLW": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Decorative Pieces",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
-        "row_UBDCf9"
+        "row_UBDCf9",
+        "row_phXFLW"
       ],
       "settings": {
         "image_height": "medium",
