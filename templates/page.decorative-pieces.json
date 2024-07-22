@@ -124,16 +124,22 @@
     "collection_list_giCHzQ": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_J9YzTx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decorative-pieces-2"
+          }
+        },
         "featured_collection_RAqBy4": {
           "type": "featured_collection",
           "settings": {
             "collection": "decorative-pieces"
           }
         },
-        "featured_collection_J9YzTx": {
+        "featured_collection_V7nJWE": {
           "type": "featured_collection",
           "settings": {
-            "collection": "decorative-pieces-2"
+            "collection": ""
           }
         },
         "featured_collection_zdkTiL": {
@@ -141,22 +147,30 @@
           "settings": {
             "collection": ""
           }
+        },
+        "featured_collection_zUHKen": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
-        "featured_collection_RAqBy4",
         "featured_collection_J9YzTx",
-        "featured_collection_zdkTiL"
+        "featured_collection_RAqBy4",
+        "featured_collection_V7nJWE",
+        "featured_collection_zdkTiL",
+        "featured_collection_zUHKen"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
+        "columns_desktop": 4,
+        "color_scheme": "accent-2",
         "show_view_all": false,
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -178,40 +192,6 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "newsletter_BPthkC": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_QxKRBH": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to Decorative Pieces",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_dGejqr": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new decorative pieces.<\/p>"
-          }
-        },
-        "email_form_pErDHg": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_QxKRBH",
-        "paragraph_dGejqr",
-        "email_form_pErDHg"
-      ],
-      "settings": {
-        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -261,6 +241,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "newsletter_BPthkC": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_QxKRBH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to Decorative Pieces",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_dGejqr": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new decorative pieces.<\/p>"
+          }
+        },
+        "email_form_pErDHg": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_QxKRBH",
+        "paragraph_dGejqr",
+        "email_form_pErDHg"
+      ],
+      "settings": {
+        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -269,7 +283,7 @@
     "image_with_text_EQikJc",
     "collection_list_giCHzQ",
     "rich_text_3rhTnm",
-    "newsletter_BPthkC",
-    "image_with_text_YgNbwc"
+    "image_with_text_YgNbwc",
+    "newsletter_BPthkC"
   ]
 }
