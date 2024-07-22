@@ -63,7 +63,8 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".card__information {padding-top: 0; padding-bottom: 0;}"
+        ".card__information {padding-top: 0; padding-bottom: 0;}",
+        ".pagination {display: none;}"
       ],
       "settings": {
         "products_per_page": 20,
