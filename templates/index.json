@@ -303,7 +303,7 @@
         "button_style": "secondary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
+        "image_layout": "alternate-right",
         "section_color_scheme": "background-2",
         "row_color_scheme": "accent-2",
         "mobile_content_alignment": "left",
