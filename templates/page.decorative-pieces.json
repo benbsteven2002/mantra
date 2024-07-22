@@ -34,6 +34,14 @@
             "text_style": "subtitle"
           }
         },
+        "caption_txgP34": {
+          "type": "caption",
+          "settings": {
+            "caption": "Subscribe to our email list to be the first to know about new decorative pieces",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        },
         "button_g3Gcgb": {
           "type": "button",
           "settings": {
@@ -41,21 +49,13 @@
             "button_link": "#",
             "button_style_secondary": false
           }
-        },
-        "caption_txgP34": {
-          "type": "caption",
-          "settings": {
-            "caption": "Subscribe to our decorative pieces emailer to be the first to know about new decorative pieces",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
         }
       },
       "block_order": [
         "heading_hrDdYi",
         "text_GPreKX",
-        "button_g3Gcgb",
-        "caption_txgP34"
+        "caption_txgP34",
+        "button_g3Gcgb"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCF3660.jpg",
