@@ -283,8 +283,9 @@
         "column_e4iUmm": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/DSCF3242_copy_25950cf8-f2dd-4d03-a343-ecf98fe3b143.jpg",
+            "title": "",
+            "text": "<p>Shop Mugs<\/p>",
             "link_label": "",
             "link": ""
           }
