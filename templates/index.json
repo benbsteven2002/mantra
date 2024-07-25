@@ -382,6 +382,53 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collection_list_Ame66U": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_gTUP8W": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lifestyle-accessories"
+          }
+        },
+        "featured_collection_DeW4jk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bath-towels"
+          }
+        },
+        "featured_collection_Gf9MG4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-candles"
+          }
+        },
+        "featured_collection_jLnABU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_gTUP8W",
+        "featured_collection_DeW4jk",
+        "featured_collection_Gf9MG4",
+        "featured_collection_jLnABU"
+      ],
+      "settings": {
+        "title": "Shop our Lifestyle Collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "accent-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -390,6 +437,7 @@
     "multicolumn_jkQcAH",
     "multirow_9bdf6x",
     "featured_blog_qhiw4H",
-    "multicolumn_bTH7dH"
+    "multicolumn_bTH7dH",
+    "collection_list_Ame66U"
   ]
 }
