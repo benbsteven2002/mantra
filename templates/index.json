@@ -244,10 +244,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF3823_copy_617e122b-dca7-4300-820c-b70c597c41a2.jpg",
-            "title": "Bath & Body",
-            "text": "<p>Towels <\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "",
+            "text": "",
+            "link_label": "Bath & Body",
+            "link": "shopify:\/\/collections\/bathroom-accessories"
           }
         }
       },
