@@ -280,6 +280,26 @@
     "multicolumn_abaMD7": {
       "type": "multicolumn",
       "blocks": {
+        "column_TRijxH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF36832.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Candles & Candle Holders",
+            "link": "shopify:\/\/collections\/candles"
+          }
+        },
+        "column_Hdc4BC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF3281.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Plates & Bowls",
+            "link": "shopify:\/\/collections\/plates-bowls"
+          }
+        },
         "column_cbf7WL": {
           "type": "column",
           "settings": {
@@ -299,33 +319,13 @@
             "link_label": "Mugs",
             "link": "shopify:\/\/collections\/mugs"
           }
-        },
-        "column_Hdc4BC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3281.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Plates & Bowls",
-            "link": "shopify:\/\/collections\/plates-bowls"
-          }
-        },
-        "column_TRijxH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF36832.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Candles & Candle Holders",
-            "link": "shopify:\/\/collections\/candles"
-          }
         }
       },
       "block_order": [
-        "column_cbf7WL",
-        "column_e4iUmm",
+        "column_TRijxH",
         "column_Hdc4BC",
-        "column_TRijxH"
+        "column_cbf7WL",
+        "column_e4iUmm"
       ],
       "settings": {
         "title": "Shop our Everyday Living Collections:",
