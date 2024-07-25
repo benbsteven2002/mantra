@@ -213,17 +213,17 @@
         "column_rJY3NL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3281_9634f33f-4314-4293-90c0-0f870cca7889.jpg",
+            "image": "shopify:\/\/shop_images\/DSCF4401_62a9eb42-99b1-4be6-b5eb-31d47c1c3d7b.jpg",
             "title": "",
             "text": "",
-            "link_label": "Plates & Bowls",
-            "link": "shopify:\/\/collections\/plates-bowls"
+            "link_label": "Bath Towels",
+            "link": "shopify:\/\/collections\/bath-towels"
           }
         },
         "column_c4PFcB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF0666.jpg",
+            "image": "shopify:\/\/shop_images\/DSCF4357_copy.jpg",
             "title": "",
             "text": "",
             "link_label": "Bags & Baskets",
@@ -236,7 +236,7 @@
             "image": "shopify:\/\/shop_images\/DSCF3087.jpg",
             "title": "",
             "text": "",
-            "link_label": "Towels",
+            "link_label": "Beach Towels",
             "link": "shopify:\/\/collections\/towels-1"
           }
         },
@@ -280,14 +280,24 @@
     "multicolumn_abaMD7": {
       "type": "multicolumn",
       "blocks": {
+        "column_cbf7WL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF3458.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Serving Spoons & Cutlery",
+            "link": "shopify:\/\/collections\/serving-spoons"
+          }
+        },
         "column_e4iUmm": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF3242_copy_25950cf8-f2dd-4d03-a343-ecf98fe3b143.jpg",
             "title": "",
-            "text": "<p>Mugs<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "",
+            "link_label": "Mugs",
+            "link": "shopify:\/\/collections\/mugs"
           }
         },
         "column_Hdc4BC": {
@@ -295,22 +305,24 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF3281.jpg",
             "title": "",
-            "text": "<p>Plates & Bowls<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "",
+            "link_label": "Plates & Bowls",
+            "link": "shopify:\/\/collections\/plates-bowls"
           }
         },
         "column_TRijxH": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/DSCF36832.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Candles & Candle Holders",
+            "link": "shopify:\/\/collections\/candles"
           }
         }
       },
       "block_order": [
+        "column_cbf7WL",
         "column_e4iUmm",
         "column_Hdc4BC",
         "column_TRijxH"
@@ -322,7 +334,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "accent-2",
