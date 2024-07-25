@@ -362,6 +362,148 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_Ame66U": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_gTUP8W": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lifestyle-accessories"
+          }
+        },
+        "featured_collection_DeW4jk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bath-towels"
+          }
+        },
+        "featured_collection_Gf9MG4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-candles"
+          }
+        },
+        "featured_collection_jLnABU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "towels-1"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_gTUP8W",
+        "featured_collection_DeW4jk",
+        "featured_collection_Gf9MG4",
+        "featured_collection_jLnABU"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Shop our Lifestyle Collections:",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "accent-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 20
+      }
+    },
+    "collection_list_KfErJd": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ULwRkV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candles"
+          }
+        },
+        "featured_collection_aRNEMX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mugs"
+          }
+        },
+        "featured_collection_N3R8mC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "plates-bowls"
+          }
+        },
+        "featured_collection_pcewap": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serving-spoons"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ULwRkV",
+        "featured_collection_aRNEMX",
+        "featured_collection_N3R8mC",
+        "featured_collection_pcewap"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Shop our Everyday Living Collections:",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_9bdf6x": {
+      "type": "multirow",
+      "blocks": {
+        "row_UBDCf9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7552.jpg",
+            "caption": "Mantra living",
+            "heading": "Gift Registry",
+            "text": "<p>Turn Your House into a Home <\/p><p>At Mantra Living, our wedding registry offers a curated selection of timeless, quality products designed to inspire beautiful living. From handcrafted mugs to exquisite decorative pieces, we help couples create a registry that reflects their unique style and commitment.<\/p>",
+            "button_label": "Create my Registry",
+            "button_link": "\/pages\/swym-registry-form?mode=create"
+          }
+        },
+        "row_phXFLW": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF4296copy.jpg",
+            "caption": "Mantra Living",
+            "heading": "Decorative Pieces",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Shop Decorative Pieces",
+            "button_link": "shopify:\/\/pages\/decorative-pieces"
+          }
+        }
+      },
+      "block_order": [
+        "row_UBDCf9",
+        "row_phXFLW"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+        "row_color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_bTH7dH": {
       "type": "multicolumn",
       "blocks": {
@@ -414,146 +556,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "collection_list_Ame66U": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_gTUP8W": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lifestyle-accessories"
-          }
-        },
-        "featured_collection_DeW4jk": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bath-towels"
-          }
-        },
-        "featured_collection_Gf9MG4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "scented-candles"
-          }
-        },
-        "featured_collection_jLnABU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "towels-1"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_gTUP8W",
-        "featured_collection_DeW4jk",
-        "featured_collection_Gf9MG4",
-        "featured_collection_jLnABU"
-      ],
-      "settings": {
-        "title": "Shop our Lifestyle Collections:",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "accent-2",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 20
-      }
-    },
-    "collection_list_KfErJd": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_ULwRkV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "candles"
-          }
-        },
-        "featured_collection_aRNEMX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "mugs"
-          }
-        },
-        "featured_collection_N3R8mC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "plates-bowls"
-          }
-        },
-        "featured_collection_pcewap": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "serving-spoons"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_ULwRkV",
-        "featured_collection_aRNEMX",
-        "featured_collection_N3R8mC",
-        "featured_collection_pcewap"
-      ],
-      "settings": {
-        "title": "Shop our Everyday Living Collections:",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "accent-2",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "multirow_9bdf6x": {
-      "type": "multirow",
-      "blocks": {
-        "row_UBDCf9": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7552.jpg",
-            "caption": "Mantra living",
-            "heading": "Gift Registry",
-            "text": "<p>Turn Your House into a Home <\/p><p>At Mantra Living, our wedding registry offers a curated selection of timeless, quality products designed to inspire beautiful living. From handcrafted mugs to exquisite decorative pieces, we help couples create a registry that reflects their unique style and commitment.<\/p>",
-            "button_label": "Create my Registry",
-            "button_link": "\/pages\/swym-registry-form?mode=create"
-          }
-        },
-        "row_phXFLW": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF4296copy.jpg",
-            "caption": "Mantra Living",
-            "heading": "Decorative Pieces",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Shop Decorative Pieces",
-            "button_link": "shopify:\/\/pages\/decorative-pieces"
-          }
-        }
-      },
-      "block_order": [
-        "row_UBDCf9",
-        "row_phXFLW"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h2",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-right",
-        "section_color_scheme": "background-2",
-        "row_color_scheme": "accent-2",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -562,9 +564,9 @@
     "multicolumn_jkQcAH",
     "multicolumn_abaMD7",
     "featured_blog_qhiw4H",
-    "multicolumn_bTH7dH",
     "collection_list_Ame66U",
     "collection_list_KfErJd",
-    "multirow_9bdf6x"
+    "multirow_9bdf6x",
+    "multicolumn_bTH7dH"
   ]
 }
