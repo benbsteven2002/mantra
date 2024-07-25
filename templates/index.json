@@ -436,7 +436,7 @@
         "featured_collection_ULwRkV": {
           "type": "featured_collection",
           "settings": {
-            "collection": "glasses"
+            "collection": "candles"
           }
         },
         "featured_collection_aRNEMX": {
@@ -448,20 +448,27 @@
         "featured_collection_N3R8mC": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "plates-bowls"
+          }
+        },
+        "featured_collection_pcewap": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serving-spoons"
           }
         }
       },
       "block_order": [
         "featured_collection_ULwRkV",
         "featured_collection_aRNEMX",
-        "featured_collection_N3R8mC"
+        "featured_collection_N3R8mC",
+        "featured_collection_pcewap"
       ],
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "1",
