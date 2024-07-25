@@ -239,12 +239,23 @@
             "link_label": "Towels",
             "link": "shopify:\/\/collections\/towels-1"
           }
+        },
+        "column_gy9cNj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF3823_copy_617e122b-dca7-4300-820c-b70c597c41a2.jpg",
+            "title": "",
+            "text": "<p>Towels <\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_rJY3NL",
         "column_c4PFcB",
-        "column_W8grGa"
+        "column_W8grGa",
+        "column_gy9cNj"
       ],
       "custom_css": [
         ".multicolumn-card {background: none;}"
@@ -254,7 +265,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
