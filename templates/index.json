@@ -407,7 +407,7 @@
         "featured_collection_jLnABU": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "towels-1"
           }
         }
       },
@@ -429,6 +429,46 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collection_list_KfErJd": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ULwRkV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "glasses"
+          }
+        },
+        "featured_collection_aRNEMX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mugs"
+          }
+        },
+        "featured_collection_N3R8mC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ULwRkV",
+        "featured_collection_aRNEMX",
+        "featured_collection_N3R8mC"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -438,6 +478,7 @@
     "multirow_9bdf6x",
     "featured_blog_qhiw4H",
     "multicolumn_bTH7dH",
-    "collection_list_Ame66U"
+    "collection_list_Ame66U",
+    "collection_list_KfErJd"
   ]
 }
