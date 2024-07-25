@@ -277,7 +277,7 @@
             "heading": "Gift Registry",
             "text": "<p>Turn Your House into a Home <\/p><p>At Mantra Living, our wedding registry offers a curated selection of timeless, quality products designed to inspire beautiful living. From handcrafted mugs to exquisite decorative pieces, we help couples create a registry that reflects their unique style and commitment.<\/p>",
             "button_label": "Create my Registry",
-            "button_link": "shopify:\/\/pages\/swym-registry-home"
+            "button_link": "\/pages\/swym-registry-form?mode=create"
           }
         },
         "row_phXFLW": {
