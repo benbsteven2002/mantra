@@ -244,7 +244,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF3823_copy_617e122b-dca7-4300-820c-b70c597c41a2.jpg",
-            "title": "",
+            "title": "Bath & Body",
             "text": "<p>Towels <\/p>",
             "link_label": "",
             "link": ""
@@ -285,7 +285,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF3242_copy_25950cf8-f2dd-4d03-a343-ecf98fe3b143.jpg",
             "title": "",
-            "text": "<p>Shop Mugs<\/p>",
+            "text": "<p>Mugs<\/p>",
             "link_label": "",
             "link": ""
           }
