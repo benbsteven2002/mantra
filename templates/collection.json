@@ -34,7 +34,8 @@
       "custom_css": [
         ".banner_heading {font-family: \"HighSpirited\", sans-serif !important;}",
         ".banner__heading {font-size: 120px;}",
-        "@media (max-width: 768px) {.banner__heading {font-size: 62px; } .slideshow__text {padding-top: 0px; padding-bottom: 7px; }}"
+        "@media (max-width: 768px) {.banner__heading {font-size: 62px; } .slideshow__text {padding-top: 0px; padding-bottom: 7px; }}",
+        ".banner__text {color: white;}"
       ],
       "settings": {
         "image": "{{ collection.image }}",
