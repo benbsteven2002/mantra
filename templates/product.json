@@ -80,7 +80,7 @@
           "settings": {
             "heading": "Product Description",
             "icon": "none",
-            "content": "description",
+            "content": " {{ product.title }} ",
             "page": ""
           }
         },
