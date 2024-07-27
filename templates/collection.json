@@ -32,7 +32,8 @@
         "text_XxpHVH"
       ],
       "custom_css": [
-        ".banner_heading {font-family: \"HighSpirited\", sans-serif !important;}"
+        ".banner_heading {font-family: \"HighSpirited\", sans-serif !important;}",
+        ".banner__heading {font-size: 82px;}"
       ],
       "settings": {
         "image": "{{ collection.image }}",
