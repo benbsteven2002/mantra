@@ -79,8 +79,8 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Product Despription",
-            "icon": "chat_bubble",
-            "content": "<p>kjhgkjhg<\/p>",
+            "icon": "none",
+            "content": "<p>kjhgkjhg{{ block.settings.page.title }}<\/p>",
             "page": ""
           }
         },
