@@ -85,15 +85,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "collapsible_tab_LUxqpd": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -105,8 +96,7 @@
         "buy_buttons",
         "swym_gift_lists_and_registries_swym_registry_add_button_bD4rtf",
         "description",
-        "share",
-        "collapsible_tab_LUxqpd"
+        "share"
       ],
       "custom_css": [
         "h1 {font-size: 35px;}"
