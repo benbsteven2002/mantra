@@ -26,7 +26,8 @@
         "text_T6g4fU"
       ],
       "custom_css": [
-        ".footer__list-social {justify-content: center;}"
+        ".footer__list-social {justify-content: center;}",
+        ".footer__content-top {padding-bottom: 8px;}"
       ],
       "settings": {
         "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
