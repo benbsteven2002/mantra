@@ -75,14 +75,6 @@
             "swym_registry_success_continue": "Continue Adding"
           }
         },
-        "collapsible_tab_JzQGk6": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Product Description",
-            "icon": "none",
-            "content": " {{ product }} ",
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -103,7 +95,6 @@
         "quantity_selector",
         "buy_buttons",
         "swym_gift_lists_and_registries_swym_registry_add_button_bD4rtf",
-        "collapsible_tab_JzQGk6",
         "description",
         "share"
       ],
