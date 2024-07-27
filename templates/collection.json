@@ -31,6 +31,9 @@
         "heading_WJBUwY",
         "text_XxpHVH"
       ],
+      "custom_css": [
+        ".banner_heading {font-family: \"HighSpirited\", sans-serif !important;}"
+      ],
       "settings": {
         "image": "{{ collection.image }}",
         "image_overlay_opacity": 0,
