@@ -22,7 +22,7 @@
         "text_XxpHVH": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "{{ collection.metafields.custom.single_line_test.value }}",
             "text_style": "body"
           }
         }
