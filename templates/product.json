@@ -80,7 +80,7 @@
           "settings": {
             "heading": "Product Description",
             "icon": "none",
-            "content": "<p> {{ product.vendor }} <\/p>",
+            "content": "<p> {{ product.description }} <\/p>",
             "page": ""
           }
         },
