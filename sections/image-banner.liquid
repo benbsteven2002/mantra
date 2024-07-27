@@ -23,6 +23,17 @@
   {%- endstyle -%}
 {%- endif -%}
 
+{%  style  %} 
+  @font-face {
+    font-family: 'HighSpirited';
+    src: url('{{ "HighSpirited.woff2" | asset_url }}') format('woff2'),
+        url('{{ "HighSpirited.woff" | asset_url }}') format('woff'),
+        url('{{ "HighSpirited.ttf" | asset_url }}') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+ {% endstyle %}
+
 {%- style -%}
   #Banner-{{ section.id }}::after {
     opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
