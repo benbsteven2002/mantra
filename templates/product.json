@@ -80,7 +80,7 @@
           "settings": {
             "heading": "Product Description",
             "icon": "none",
-            "content": " {{ product.description }} ",
+            "content": "<p> {{ product.metafields.import_information.trade_item_description | metafield_tag }}<\/p>",
             "page": ""
           }
         },
