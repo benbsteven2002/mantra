@@ -181,12 +181,24 @@
             "button_label": "",
             "button_link": "shopify:\/\/collections\/lifestyle-1"
           }
+        },
+        "row_eNLPGn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1712.heic",
+            "caption": "",
+            "heading": "The beauty of handmade products",
+            "text": "<p> They are a testament to the beauty and uniqueness that come from being handmade and authentically crafted. Each piece is meticulously created with care and attention to detail, resulting in a one-of-a-kind item every time. The variations that occur add to their charm and individuality, ensuring that no two pieces are exactly alike. This dedication to craftsmanship and authenticity not only enhances the aesthetic appeal but also connects you to the story behind each product. Embrace the distinctiveness and character that only handmade products can offer, and discover the beauty in their imperfections and variations.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "row_tp3TRk",
         "row_4HX4dN",
-        "row_WgGCbp"
+        "row_WgGCbp",
+        "row_eNLPGn"
       ],
       "custom_css": [
         ".multirow__inner {max-width: 1200px;}"
