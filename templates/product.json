@@ -87,7 +87,7 @@
           }
         },
         "collapsible_tab_LUxqpd": {
-          "type": "description",
+          "type": "collapsible_tab",
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
