@@ -80,7 +80,7 @@
           "settings": {
             "heading": "Product Despription",
             "icon": "none",
-            "content": "<p>kjhgkjhg{{ block.settings.page.title }}<\/p>",
+            "content": "<p>kjhgkjhg{{ block.settings.page.title }}<\/p>{{ product.metafields[\"shopify--discovery--product_search_boost\"].queries | metafield_tag }}",
             "page": ""
           }
         },
