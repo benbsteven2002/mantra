@@ -479,3 +479,7 @@
     color: currentColor;
   }
 }
+
+.highspirit {
+  font-family: 'HighSpirited', sans-serif !important;
+}
