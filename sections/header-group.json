@@ -52,12 +52,12 @@
         "\/* Menu items white *\/.list-menu__item span {color: white;}",
         " \/* Nav bar items *\/a#HeaderMenu-home {padding-top: 0; padding-bottom: 0;}",
         "header-menu details summary {padding-top: 0; padding-bottom: 0;}",
-        "a#HeaderMenu-contact {padding-top: 0; padding-bottom: 0;}",
         "nav.header__inline-menu {margin: 0;}",
-        " \/* Logo *\/a.header__heading-link {padding: 0;}",
+        "a.header__heading-link {padding: 0;}",
         "#HeaderMenu-decorative-pieces {padding-top: 0px; padding-bottom: 0px;}",
         "#HeaderMenu-lifestyle-towels {color: black; padding-top: 12px; padding-bottom: 12px;}",
-        "#HeaderMenu-lifestyle-towels span {color: black;}"
+        "#HeaderMenu-lifestyle-towels span {color: black;}",
+        "#HeaderMenu-gift-card{padding-top: 0px; padding-bottom: 0px;}"
       ],
       "settings": {
         "logo_position": "top-center",
