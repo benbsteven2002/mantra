@@ -37,7 +37,6 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {
           }
         },
@@ -50,7 +49,6 @@
         },
         "swym_gift_lists_and_registries_swym_registry_add_button_bD4rtf": {
           "type": "shopify:\/\/apps\/swym-gift-lists-and-registries\/blocks\/swym-registry-add-button\/08b4c8ab-fc8b-4e5f-84b6-cc3c7d669113",
-          "disabled": true,
           "settings": {
             "swym_registry_add_button_text_color": "#f1f1f1",
             "swym_registry_add_button_background_color": "#d19000",
@@ -79,7 +77,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
