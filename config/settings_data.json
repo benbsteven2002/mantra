@@ -194,6 +194,12 @@
         "settings": {
           "storefrontAccessToken": "45198808b0eb1b77f69f4a8027755fe8"
         }
+      },
+      "6986766168588894248": {
+        "type": "shopify:\/\/apps\/preorder-now-wolf\/blocks\/app-embed\/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
