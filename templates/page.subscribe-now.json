@@ -55,8 +55,8 @@
     "custom_liquid_aptLGi": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n  #MainContent {\n    display: none;\n  }\n<\/style>",
-        "color_scheme": "",
+        "custom_liquid": "",
+        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
         "padding_top": 40,
         "padding_bottom": 52
       }
