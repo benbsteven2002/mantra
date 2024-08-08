@@ -51,10 +51,20 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "custom_liquid_aptLGi": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n  #MainContent {\n    display: none;\n  }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "newsletter_8fCetD"
+    "newsletter_8fCetD",
+    "custom_liquid_aptLGi"
   ]
 }
