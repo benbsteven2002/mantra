@@ -20,18 +20,10 @@
             "text": "Free Shipping on Orders Above R1000!",
             "link": ""
           }
-        },
-        "announcement_hmyMGx": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free pickup available in store!",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "announcement_hmyMGx"
+        "announcement-bar-0"
       ],
       "custom_css": [
         ".announcement-bar__message {font-size: 14px;}"
@@ -57,7 +49,7 @@
         "#HeaderMenu-decorative-pieces {padding-top: 0px; padding-bottom: 0px;}",
         "#HeaderMenu-lifestyle-towels {color: black; padding-top: 12px; padding-bottom: 12px;}",
         "#HeaderMenu-lifestyle-towels span {color: black;}",
-        "#HeaderMenu-gift-card{padding-top: 0px; padding-bottom: 0px;}"
+        "#HeaderMenu-gift-card {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "settings": {
         "logo_position": "top-center",
