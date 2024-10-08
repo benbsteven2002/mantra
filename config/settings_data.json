@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/ML-White-Web_c31e9b3c-43d2-4808-aa89-657084c965ff.png",
+    "logo": "shopify://shop_images/ML-White-Web_c31e9b3c-43d2-4808-aa89-657084c965ff.png",
     "logo_width": 190,
-    "favicon": "shopify:\/\/shop_images\/Favicon_M_Only.png",
+    "favicon": "shopify://shop_images/Favicon_M_Only.png",
     "type_header_font": "century_gothic_n4",
     "heading_scale": 130,
     "type_body_font": "century_gothic_n4",
@@ -108,15 +108,15 @@
     "sale_badge_color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
     "sold_out_badge_color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/www.facebook.com\/mantraliving.za",
-    "social_instagram_link": "https:\/\/www.instagram.com\/mantraliving.za\/",
+    "social_facebook_link": "https://www.facebook.com/mantraliving.za",
+    "social_instagram_link": "https://www.instagram.com/mantraliving.za/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
-    "social_pinterest_link": "https:\/\/za.pinterest.com\/InspiringBeautifulLiving\/",
+    "social_pinterest_link": "https://za.pinterest.com/InspiringBeautifulLiving/",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
@@ -158,7 +158,7 @@
     ],
     "blocks": {
       "5023250889720929315": {
-        "type": "shopify:\/\/apps\/swym-gift-lists-and-registries\/blocks\/swym-registry-pdp-embed\/08b4c8ab-fc8b-4e5f-84b6-cc3c7d669113",
+        "type": "shopify://apps/swym-gift-lists-and-registries/blocks/swym-registry-pdp-embed/08b4c8ab-fc8b-4e5f-84b6-cc3c7d669113",
         "disabled": true,
         "settings": {
           "swym_registry_inject_button_selector": "none",
@@ -188,29 +188,36 @@
           "swym_registry_success_continue": "Continue Adding"
         }
       },
-      "18228966181090706294": {
-        "type": "shopify:\/\/apps\/selleasy\/blocks\/app-embed\/790c1a03-a71f-4bc1-9869-00dad526d3c2",
-        "disabled": false,
-        "settings": {
-          "storefrontAccessToken": "45198808b0eb1b77f69f4a8027755fe8"
-        }
-      },
       "6986766168588894248": {
-        "type": "shopify:\/\/apps\/preorder-now-wolf\/blocks\/app-embed\/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
+        "type": "shopify://apps/preorder-now-wolf/blocks/app-embed/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
         "disabled": false,
         "settings": {
         }
       },
       "13768625480086291342": {
-        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {
         }
       },
       "6809432049943154355": {
-        "type": "shopify:\/\/apps\/avada-seo-suite\/blocks\/avada-seo\/15507c6e-1aa3-45d3-b698-7e175e033440",
+        "type": "shopify://apps/avada-seo-suite/blocks/avada-seo/15507c6e-1aa3-45d3-b698-7e175e033440",
         "disabled": false,
         "settings": {
+        }
+      },
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#d19000",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "team",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
         }
       }
     },
@@ -439,7 +446,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
