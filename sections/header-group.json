@@ -14,14 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Free Shipping on Orders Above R1000!",
-            "link": ""
-          }
-        },
         "announcement_cr4pKe": {
           "type": "announcement",
           "settings": {
@@ -29,18 +21,17 @@
             "link": ""
           }
         },
-        "announcement_7CVJq4": {
+        "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Our shop is open Mon - Sun, 8:30 - 22:00",
-            "link": "https://maps.app.goo.gl/2yQh8b8Y45EojX2N8"
+            "text": "Free Shipping on Orders Above R1000!",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0",
         "announcement_cr4pKe",
-        "announcement_7CVJq4"
+        "announcement-bar-0"
       ],
       "custom_css": [
         ".announcement-bar__message {font-size: 14px;}"
