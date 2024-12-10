@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -16,14 +16,23 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Free Shipping on Orders Above R1000!",
+            "link": ""
+          }
+        },
+        "announcement_cr4pKe": {
+          "type": "announcement",
+          "settings": {
+            "text": "Orders Closing 18 December & Reopening 3 January",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_cr4pKe"
       ],
       "custom_css": [
         ".announcement-bar__message {font-size: 14px;}"
@@ -41,8 +50,8 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "\/* Menu items white *\/.list-menu__item span {color: white;}",
-        " \/* Nav bar items *\/a#HeaderMenu-home {padding-top: 0; padding-bottom: 0;}",
+        "/* Menu items white */.list-menu__item span {color: white;}",
+        " /* Nav bar items */a#HeaderMenu-home {padding-top: 0; padding-bottom: 0;}",
         "header-menu details summary {padding-top: 0; padding-bottom: 0;}",
         "nav.header__inline-menu {margin: 0;}",
         "a.header__heading-link {padding: 0;}",
