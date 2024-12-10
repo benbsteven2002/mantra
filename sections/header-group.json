@@ -28,11 +28,19 @@
             "text": "Online Orders Closing 18 December & Reopening 3 January",
             "link": ""
           }
+        },
+        "announcement_7CVJq4": {
+          "type": "announcement",
+          "settings": {
+            "text": "Our shop is open Mon - Sun, 8:30 - 22:00",
+            "link": "https://maps.app.goo.gl/2yQh8b8Y45EojX2N8"
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_cr4pKe"
+        "announcement_cr4pKe",
+        "announcement_7CVJq4"
       ],
       "custom_css": [
         ".announcement-bar__message {font-size: 14px;}"
