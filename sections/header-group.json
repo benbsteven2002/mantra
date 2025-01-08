@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_cr4pKe": {
-          "type": "announcement",
-          "settings": {
-            "text": "Online Orders Placed After 18 December Will Be Processed on 3 January",
-            "link": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -30,7 +23,6 @@
         }
       },
       "block_order": [
-        "announcement_cr4pKe",
         "announcement-bar-0"
       ],
       "custom_css": [
