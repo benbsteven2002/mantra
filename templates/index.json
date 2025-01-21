@@ -1,80 +1,44 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_f3JmXG": {
       "type": "slideshow",
       "blocks": {
-        "slide_bMNJ3P": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/mantra-living-1.png",
-            "heading": "Welcome to Mantra Living",
-            "heading_size": "h1",
-            "subheading": "Create beautiful table settings around which delicious meals are shared & conversations had",
-            "button_label": "Shop our Curated Collections",
-            "link": "shopify:\/\/collections\/everyday-living-1",
-            "button_style_secondary": false,
-            "box_align": "top-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_QVCke6": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-28_at_12.27.02.png",
-            "heading": "Welcome to Mantra Living",
-            "heading_size": "h1",
-            "subheading": "Be inspired to live a life full of style, character & charm",
-            "button_label": "Shop Kitchen Essentials",
-            "link": "shopify:\/\/collections\/kitchen-essentials",
-            "button_style_secondary": false,
-            "box_align": "top-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_4BpqFB": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-13_at_11.03.12.png",
-            "heading": "Welcome to Mantra Living",
-            "heading_size": "h1",
-            "subheading": "Surround yourself with beautiful products and embrace the moments they create.",
-            "button_label": "Shop Lifestyle",
-            "link": "shopify:\/\/collections\/lifestyle",
-            "button_style_secondary": false,
-            "box_align": "top-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_pPpLem": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-28_at_12.21.47.png",
+            "image": "shopify://shop_images/Screenshot_2024-06-28_at_12.21.47.png",
             "heading": "Welcome to Mantra Living",
             "heading_size": "h1",
             "subheading": "Collect beautiful products that enhance your everyday experiences.",
             "button_label": "Shop Handmade Mugs",
-            "link": "shopify:\/\/collections\/mugs",
+            "link": "shopify://collections/mugs",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_bMNJ3P": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/mantra-living-1.png",
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h1",
+            "subheading": "Create beautiful table settings around which delicious meals are shared & conversations had",
+            "button_label": "Shop our Curated Collections",
+            "link": "shopify://collections/everyday-living-1",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -87,12 +51,48 @@
         "slide_cDRiBK": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-07-20_at_15.00.02.png",
+            "image": "shopify://shop_images/Screenshot_2024-07-20_at_15.00.02.png",
             "heading": "Welcome to Mantra Living",
             "heading_size": "h1",
             "subheading": "Shape the beauty of everyday living with the products you choose to use",
             "button_label": "Shop Bath & Body",
-            "link": "shopify:\/\/collections\/bathroom-accessories",
+            "link": "shopify://collections/bathroom-accessories",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_4BpqFB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-05-13_at_11.03.12.png",
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h1",
+            "subheading": "Surround yourself with beautiful products and embrace the moments they create.",
+            "button_label": "Shop Lifestyle",
+            "link": "shopify://collections/lifestyle",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_QVCke6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-06-28_at_12.27.02.png",
+            "heading": "Welcome to Mantra Living",
+            "heading_size": "h1",
+            "subheading": "Be inspired to live a life full of style, character & charm",
+            "button_label": "Shop Kitchen Essentials",
+            "link": "shopify://collections/kitchen-essentials",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -105,12 +105,12 @@
         "slide_M8yAzz": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_6119.jpg",
+            "image": "shopify://shop_images/IMG_6119.jpg",
             "heading": "Welcome to Mantra Living",
             "heading_size": "h1",
             "subheading": "Discover the beauty of all things lifestyle, home, food & garden",
             "button_label": "Shop Decorative Pieces",
-            "link": "shopify:\/\/collections\/decorative-pieces-2",
+            "link": "shopify://collections/decorative-pieces-2",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -122,11 +122,11 @@
         }
       },
       "block_order": [
-        "slide_bMNJ3P",
-        "slide_QVCke6",
-        "slide_4BpqFB",
         "slide_pPpLem",
+        "slide_bMNJ3P",
         "slide_cDRiBK",
+        "slide_4BpqFB",
+        "slide_QVCke6",
         "slide_M8yAzz"
       ],
       "custom_css": [
@@ -152,10 +152,10 @@
         "row_tp3TRk": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0369.jpg",
+            "image": "shopify://shop_images/IMG_0369.jpg",
             "caption": "",
             "heading": "Lifestyle. Home. Food. Garden.",
-            "text": "<p>Mantra Living is our expression of a way of living.<\/p><p>The essence lies in surrounding oneself with a collection of beautiful things, understanding the value of their quality and cherishing the meaningful moments that they create. <\/p>",
+            "text": "<p>Mantra Living is our expression of a way of living.</p><p>The essence lies in surrounding oneself with a collection of beautiful things, understanding the value of their quality and cherishing the meaningful moments that they create. </p>",
             "button_label": "",
             "button_link": ""
           }
@@ -163,32 +163,32 @@
         "row_4HX4dN": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-07-01_at_11.28.19.png",
+            "image": "shopify://shop_images/Screenshot_2024-07-01_at_11.28.19.png",
             "caption": "",
             "heading": "The essence of beautiful experiences",
-            "text": "<p>Our curated collection of classic, honest, and authentically created products inspires a meaningful, beautiful and stylish lifestyle.<\/p><p>Understanding beautiful living and what makes these experiences memorable is at the heart of our mission. Be it the gentle glow of a candle adding magic to a room, creating beautiful table settings around which delicious meals are shared & conversations had,  or the comfort of drinking out of a well-loved handcrafted mug.  The essence lies in finding beauty in simplicity.<\/p>",
+            "text": "<p>Our curated collection of classic, honest, and authentically created products inspires a meaningful, beautiful and stylish lifestyle.</p><p>Understanding beautiful living and what makes these experiences memorable is at the heart of our mission. Be it the gentle glow of a candle adding magic to a room, creating beautiful table settings around which delicious meals are shared & conversations had,  or the comfort of drinking out of a well-loved handcrafted mug.  The essence lies in finding beauty in simplicity.</p>",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/everyday-living-1"
+            "button_link": "shopify://collections/everyday-living-1"
           }
         },
         "row_WgGCbp": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-07-01_at_11.12.41.png",
+            "image": "shopify://shop_images/Screenshot_2024-07-01_at_11.12.41.png",
             "caption": "",
             "heading": "Living in a world of style & charm",
-            "text": "<p>Mantra Living is the culmination of a  lifetime worth of loving good food, nurturing wild gardens, creating inviting spaces and collecting quality products. It is a reflection on the past and an excitement for the future. It is a testament to living a life filled with romance, character and charm.<\/p><p>Experience this journey by embracing the beauty that life has to offer in our world of beautiful living.<\/p>",
+            "text": "<p>Mantra Living is the culmination of a  lifetime worth of loving good food, nurturing wild gardens, creating inviting spaces and collecting quality products. It is a reflection on the past and an excitement for the future. It is a testament to living a life filled with romance, character and charm.</p><p>Experience this journey by embracing the beauty that life has to offer in our world of beautiful living.</p>",
             "button_label": "",
-            "button_link": "shopify:\/\/collections\/lifestyle-1"
+            "button_link": "shopify://collections/lifestyle-1"
           }
         },
         "row_eNLPGn": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1712.heic",
+            "image": "shopify://shop_images/IMG_1712.heic",
             "caption": "",
             "heading": "The beauty of our handmade products",
-            "text": "<p>Our handmade products are a  reflection of the beauty and uniqueness that come from them being made with experience, intention and patience. Every piece is meticulously created with care and attention to detail. The variations that may occur within our handmade products add to their charm and individuality. This dedication to craftsmanship and authenticity not only enhances the aesthetic nature but also connects you to the story behind each product. Embrace the character & charm that only handmade products can offer, and discover the beauty in their imperfections and variations.<\/p>",
+            "text": "<p>Our handmade products are a  reflection of the beauty and uniqueness that come from them being made with experience, intention and patience. Every piece is meticulously created with care and attention to detail. The variations that may occur within our handmade products add to their charm and individuality. This dedication to craftsmanship and authenticity not only enhances the aesthetic nature but also connects you to the story behind each product. Embrace the character & charm that only handmade products can offer, and discover the beauty in their imperfections and variations.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -225,41 +225,41 @@
         "column_rJY3NL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF4454.jpg",
+            "image": "shopify://shop_images/DSCF4454.jpg",
             "title": "",
             "text": "",
             "link_label": "Bath Towels",
-            "link": "shopify:\/\/collections\/bath-towels"
+            "link": "shopify://collections/bath-towels"
           }
         },
         "column_c4PFcB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF4357_copy.jpg",
+            "image": "shopify://shop_images/DSCF4357_copy.jpg",
             "title": "",
             "text": "",
             "link_label": "Bags & Baskets",
-            "link": "shopify:\/\/collections\/lifestyle-accessories"
+            "link": "shopify://collections/lifestyle-accessories"
           }
         },
         "column_W8grGa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3087.jpg",
+            "image": "shopify://shop_images/DSCF3087.jpg",
             "title": "",
             "text": "",
             "link_label": "Beach Towels",
-            "link": "shopify:\/\/collections\/towels-1"
+            "link": "shopify://collections/towels-1"
           }
         },
         "column_gy9cNj": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3823_copy_617e122b-dca7-4300-820c-b70c597c41a2.jpg",
+            "image": "shopify://shop_images/DSCF3823_copy_617e122b-dca7-4300-820c-b70c597c41a2.jpg",
             "title": "",
             "text": "",
             "link_label": "Bath & Body",
-            "link": "shopify:\/\/collections\/bathroom-accessories"
+            "link": "shopify://collections/bathroom-accessories"
           }
         }
       },
@@ -313,41 +313,41 @@
         "column_TRijxH": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3384.jpg",
+            "image": "shopify://shop_images/DSCF3384.jpg",
             "title": "",
             "text": "",
             "link_label": "Placemats & Coasters",
-            "link": "shopify:\/\/collections\/placements-coasters"
+            "link": "shopify://collections/placements-coasters"
           }
         },
         "column_Hdc4BC": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3281.jpg",
+            "image": "shopify://shop_images/DSCF3281.jpg",
             "title": "",
             "text": "",
             "link_label": "Plates & Bowls",
-            "link": "shopify:\/\/collections\/plates-bowls"
+            "link": "shopify://collections/plates-bowls"
           }
         },
         "column_cbf7WL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3458.jpg",
+            "image": "shopify://shop_images/DSCF3458.jpg",
             "title": "",
             "text": "",
             "link_label": "Serving Spoons & Cutlery",
-            "link": "shopify:\/\/collections\/serving-spoons"
+            "link": "shopify://collections/serving-spoons"
           }
         },
         "column_e4iUmm": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF3242_copy_25950cf8-f2dd-4d03-a343-ecf98fe3b143.jpg",
+            "image": "shopify://shop_images/DSCF3242_copy_25950cf8-f2dd-4d03-a343-ecf98fe3b143.jpg",
             "title": "",
             "text": "",
             "link_label": "Mugs",
-            "link": "shopify:\/\/collections\/mugs"
+            "link": "shopify://collections/mugs"
           }
         }
       },
@@ -476,23 +476,23 @@
         "row_UBDCf9": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7552.jpg",
+            "image": "shopify://shop_images/IMG_7552.jpg",
             "caption": "Mantra living",
             "heading": "Gift Registry",
-            "text": "<p>Transform Your House into a Home with Mantra Living,<\/p><p>Discover how our carefully chosen products can transform your living space into a charming & welcoming place that you love spending time in, and friends & family love to visit. Our wedding registry allows you to curate a beautiful selection of our  timeless & quality products. <\/p>",
+            "text": "<p>Transform Your House into a Home with Mantra Living,</p><p>Discover how our carefully chosen products can transform your living space into a charming & welcoming place that you love spending time in, and friends & family love to visit. Our wedding registry allows you to curate a beautiful selection of our  timeless & quality products. </p>",
             "button_label": "Create my Registry",
-            "button_link": "\/pages\/swym-registry-form?mode=create"
+            "button_link": "/pages/swym-registry-form?mode=create"
           }
         },
         "row_phXFLW": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF4296copy.jpg",
+            "image": "shopify://shop_images/DSCF4296copy.jpg",
             "caption": "Mantra Living",
             "heading": "Decorative Pieces",
-            "text": "<p>Our decorative pieces add another  layer of interest, depth & aesthetic to your home. These pieces are carefully curated and should be chosen in a way that resonate with you & your personal style. <\/p><p><\/p>",
+            "text": "<p>Our decorative pieces add another  layer of interest, depth & aesthetic to your home. These pieces are carefully curated and should be chosen in a way that resonate with you & your personal style. </p><p></p>",
             "button_label": "Shop Decorative Pieces",
-            "button_link": "shopify:\/\/collections\/decorative-pieces-2"
+            "button_link": "shopify://collections/decorative-pieces-2"
           }
         }
       },
@@ -523,7 +523,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>\"The quality of our lives can only be enhanced by surrounding ourselves with elements of beauty and style; objects that inspire and bring us joy. I could not be more excited at the prospect of being able to find such things at Mantra Living, especially as they are brought to us by Melissa van Hoogstraten, a South African icon of exceptional inherent and understated style.\"<\/p><p><em>- Greg Mellor, Interior Designer<\/em><\/p>",
+            "text": "<p>\"The quality of our lives can only be enhanced by surrounding ourselves with elements of beauty and style; objects that inspire and bring us joy. I could not be more excited at the prospect of being able to find such things at Mantra Living, especially as they are brought to us by Melissa van Hoogstraten, a South African icon of exceptional inherent and understated style.\"</p><p><em>- Greg Mellor, Interior Designer</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -532,7 +532,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>\"Having watched the Mantra Living brand evolve from a demand for a local sophisticated and elegant product that is at once handmade yet international in flavour has been a joy.  The layered curation of the collection is steeped in the ultimate quiet pause in a busy life. <\/p><p>- <em>Justin van Breda, Interior Designer<\/em><\/p>",
+            "text": "<p>\"Having watched the Mantra Living brand evolve from a demand for a local sophisticated and elegant product that is at once handmade yet international in flavour has been a joy.  The layered curation of the collection is steeped in the ultimate quiet pause in a busy life. </p><p>- <em>Justin van Breda, Interior Designer</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -541,7 +541,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>\"I Iove Mantra Living’s  products because they feel local yet they are universally beautiful, they are casual and not pretentious but at the same time sophisticated. When I set a Mantra table everything just feels beautiful, it’s a feeling that is hard to describe, the textures, the colours, the curation of all the products put together is just beautiful and makes life feel wonderous.\"<\/p><p><em>- Sandra Vandermerwe, Professor & Author<\/em><\/p>",
+            "text": "<p>\"I Iove Mantra Living’s  products because they feel local yet they are universally beautiful, they are casual and not pretentious but at the same time sophisticated. When I set a Mantra table everything just feels beautiful, it’s a feeling that is hard to describe, the textures, the colours, the curation of all the products put together is just beautiful and makes life feel wonderous.\"</p><p><em>- Sandra Vandermerwe, Professor & Author</em></p>",
             "link_label": "",
             "link": ""
           }
