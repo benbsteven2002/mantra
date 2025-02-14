@@ -305,7 +305,7 @@
             "title": "",
             "text": "",
             "link_label": "Beach Towels",
-            "link": "shopify://collections/towels-1"
+            "link": "shopify://collections/towels"
           }
         },
         "column_gy9cNj": {
@@ -454,7 +454,7 @@
         "featured_collection_jLnABU": {
           "type": "featured_collection",
           "settings": {
-            "collection": "towels-1"
+            "collection": "towels"
           }
         }
       },
