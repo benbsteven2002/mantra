@@ -18,10 +18,17 @@
             "heading": "Discover What's New",
             "heading_size": "h1"
           }
+        },
+        "text_xqVgPw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore the latest additions to our range—thoughtfully curated, beautifully crafted, and designed to inspire beautiful living</p>"
+          }
         }
       },
       "block_order": [
-        "heading_AnF3ne"
+        "heading_AnF3ne",
+        "text_xqVgPw"
       ],
       "settings": {
         "desktop_content_position": "center",
