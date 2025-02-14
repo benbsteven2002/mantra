@@ -9,43 +9,27 @@
  */
 {
   "sections": {
-    "image_banner_bTPKP7": {
-      "type": "image-banner",
+    "rich_text_ENjnhQ": {
+      "type": "rich-text",
       "blocks": {
-        "heading_WJBUwY": {
+        "heading_AnF3ne": {
           "type": "heading",
           "settings": {
-            "heading": "{{ collection.title }}",
-            "heading_size": "h0"
-          }
-        },
-        "text_XxpHVH": {
-          "type": "text",
-          "settings": {
-            "text": "{{ collection.metafields.custom.single_line_test.value }}",
-            "text_style": "body"
+            "heading": "Discover Whats New",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "heading_WJBUwY",
-        "text_XxpHVH"
-      ],
-      "custom_css": [
-        ".banner__text {color: white;}"
+        "heading_AnF3ne"
       ],
       "settings": {
-        "image": "{{ collection.image }}",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-49367bb8-3030-41f0-9350-9e80a2e98ef6",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "banner": {
@@ -88,7 +72,7 @@
     }
   },
   "order": [
-    "image_banner_bTPKP7",
+    "rich_text_ENjnhQ",
     "banner",
     "product-grid"
   ]
