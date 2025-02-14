@@ -146,34 +146,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "featured_collection_KVK4rB": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Discover Our Sweetheart Collection",
-        "heading_size": "h2",
-        "description": "<p>Handmade with Love, for your Love</p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "the-sweetheart-collection",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "accent-2",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 8
-      }
-    },
     "featured_collection_LExPVh": {
       "type": "featured-collection",
       "settings": {
@@ -200,6 +172,34 @@
         "swipe_on_mobile": true,
         "padding_top": 12,
         "padding_bottom": 0
+      }
+    },
+    "featured_collection_KVK4rB": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Discover Our Sweetheart Collection",
+        "heading_size": "h2",
+        "description": "<p>Handmade with Love, for your Love</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "the-sweetheart-collection",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-2",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 8
       }
     },
     "multirow_3JtBwj": {
@@ -628,8 +628,8 @@
   },
   "order": [
     "slideshow_f3JmXG",
-    "featured_collection_KVK4rB",
     "featured_collection_LExPVh",
+    "featured_collection_KVK4rB",
     "multirow_3JtBwj",
     "multicolumn_jkQcAH",
     "featured_blog_qhiw4H",
