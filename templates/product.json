@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,13 +21,11 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -37,8 +35,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -48,7 +45,7 @@
           }
         },
         "swym_gift_lists_and_registries_swym_registry_add_button_bD4rtf": {
-          "type": "shopify:\/\/apps\/swym-gift-lists-and-registries\/blocks\/swym-registry-add-button\/08b4c8ab-fc8b-4e5f-84b6-cc3c7d669113",
+          "type": "shopify://apps/swym-gift-lists-and-registries/blocks/swym-registry-add-button/08b4c8ab-fc8b-4e5f-84b6-cc3c7d669113",
           "settings": {
             "swym_registry_add_button_text_color": "#f1f1f1",
             "swym_registry_add_button_background_color": "#d19000",
@@ -77,8 +74,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -133,9 +129,25 @@
         "padding_top": 12,
         "padding_bottom": 12
       }
+    },
+    "1739714458377bc0fd": {
+      "type": "apps",
+      "blocks": {
+        "progressify_multi_bar_upsells_block_eQrDTq": {
+          "type": "shopify://apps/progressify-multi-bar-upsells/blocks/block/82c18c6a-85d2-42a6-aa30-f91433549659",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "progressify_multi_bar_upsells_block_eQrDTq"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
+    "1739714458377bc0fd",
     "main",
     "related-products"
   ]
