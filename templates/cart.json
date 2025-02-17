@@ -11,6 +11,15 @@
   "sections": {
     "1739714520e522a926": {
       "type": "apps",
+      "blocks": {
+        "progressify_multi_bar_upsells_block_Jbn4rb": {
+          "type": "shopify://apps/progressify-multi-bar-upsells/blocks/block/82c18c6a-85d2-42a6-aa30-f91433549659",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "progressify_multi_bar_upsells_block_Jbn4rb"
+      ],
       "settings": {
         "include_margins": true
       }
