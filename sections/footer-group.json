@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -18,7 +18,7 @@
           "type": "text",
           "settings": {
             "heading": "Subscribe to our Newsletter",
-            "subtext": "<p>Discover the essentials for creating beautiful everyday living experiences, transforming places into wonderful spaces, cooking delicious food for your favourite people, and growing a beautiful garden. Join us on our journey of discovering what  makes everyday living beautiful.<\/p>"
+            "subtext": "<p>Discover the essentials for creating beautiful everyday living experiences, transforming places into wonderful spaces, cooking delicious food for your favourite people, and growing a beautiful garden. Join us on our journey of discovering what  makes everyday living beautiful.</p>"
           }
         }
       },
@@ -35,7 +35,7 @@
         "newsletter_heading": "",
         "enable_follow_on_shop": true,
         "show_social": true,
-        "enable_country_selector": true,
+        "enable_country_selector": false,
         "enable_language_selector": true,
         "payment_enable": true,
         "show_policy": true,
