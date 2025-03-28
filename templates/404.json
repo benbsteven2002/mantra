@@ -1,19 +1,18 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-404",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "rich_text_aaMhiC": {
       "type": "rich-text",
@@ -28,14 +27,14 @@
         "text_9igPYk": {
           "type": "text",
           "settings": {
-            "text": "<p>But don't worry, it's not the end of the world (or the internet)!<\/p>"
+            "text": "<p>But don't worry, it's not the end of the world (or the internet)!</p>"
           }
         },
         "button_GkNKAD": {
           "type": "button",
           "settings": {
             "button_label": "Shop Everyday Living",
-            "button_link": "shopify:\/\/collections\/everyday-living-1",
+            "button_link": "shopify://collections/homeware",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
