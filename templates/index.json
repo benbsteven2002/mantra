@@ -56,7 +56,7 @@
             "heading_size": "h1",
             "subheading": "Shape the beauty of everyday living with the products you choose to use",
             "button_label": "Shop Bath & Body",
-            "link": "shopify://collections/bathroom-accessories",
+            "link": "shopify://collections/hand-body",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -315,7 +315,7 @@
             "title": "",
             "text": "",
             "link_label": "Bath & Body",
-            "link": "shopify://collections/bathroom-accessories"
+            "link": "shopify://collections/hand-body"
           }
         }
       },
