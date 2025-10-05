@@ -154,7 +154,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "discover-whats-new",
+        "collection": "new-arrivals",
         "products_to_show": 14,
         "columns_desktop": 4,
         "full_width": false,
