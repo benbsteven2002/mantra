@@ -34,7 +34,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Everyday Living",
-            "button_link": "shopify://collections/homeware",
+            "button_link": "shopify://collections/dining",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
