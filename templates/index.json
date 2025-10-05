@@ -20,7 +20,7 @@
             "heading_size": "h1",
             "subheading": "Collect beautiful products that enhance your everyday experiences.",
             "button_label": "Shop Handmade Mugs",
-            "link": "shopify://collections/mugs",
+            "link": "shopify://collections/mugs-and-jugs",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -403,7 +403,7 @@
             "title": "",
             "text": "",
             "link_label": "Mugs",
-            "link": "shopify://collections/mugs"
+            "link": "shopify://collections/mugs-and-jugs"
           }
         }
       },
@@ -490,7 +490,7 @@
         "featured_collection_aRNEMX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mugs"
+            "collection": "mugs-and-jugs"
           }
         },
         "featured_collection_N3R8mC": {
