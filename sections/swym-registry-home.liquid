@@ -457,7 +457,7 @@
   {% endform %}
   </div>
       <div class="swym-registry-login-container swym-registry-hidden" id="swym-registry-login-container">
-{% form 'customer_login', return_to: `` %}
+{% form 'customer_login', return_to: nil %}
   {{ form.errors | default_errors }}
   <div class="swym-registry-form-page-field-parent email">
     <label for="email" class="swym-registry-font-very-small">{{ settings.swym_registry_login_email_label }}<span>*</span></label>
@@ -726,4 +726,13 @@
   }
   swymRegistryAddOnloadEvent(swymRegistryAddOnloadEventHandler);
 </script>
-{% endif %}
+{% endif %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% form 'customer_login', return_to: `` %}"
+  to: "{% form 'customer_login', return_to: nil %}"
+  position: 15227..15270
+{%- endcomment -%}
